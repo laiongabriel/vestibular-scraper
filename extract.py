@@ -186,6 +186,36 @@ def extrair_dificuldade(elemento_pai):
     except:
         return ""
 
+def extrair_inicio_enunciado(enunciado, tamanho=10):
+    """Extrai os primeiros N caracteres do enunciado (sem HTML)"""
+    # Remove todas as tags HTML
+    texto_limpo = re.sub(r'<[^>]+>', '', enunciado)
+    # Remove espaços extras e quebras de linha
+    texto_limpo = re.sub(r'\s+', ' ', texto_limpo).strip().lower()
+    # Retorna os primeiros N caracteres
+    return texto_limpo[:tamanho]
+
+def remover_duplicadas(questoes):
+    """Remove questões duplicadas baseado nos primeiros 20 caracteres do enunciado"""
+    questoes_unicas = []
+    inicios_vistos = set()
+    duplicadas_removidas = 0
+    
+    for questao in questoes:
+        inicio_enunciado = extrair_inicio_enunciado(questao['enunciado_txt'], tamanho=10)
+        
+        if inicio_enunciado not in inicios_vistos:
+            inicios_vistos.add(inicio_enunciado)
+            questoes_unicas.append(questao)
+        else:
+            duplicadas_removidas += 1
+            print(f"    ⚠️  Questão duplicada removida (início: '{inicio_enunciado}')")
+    
+    if duplicadas_removidas > 0:
+        print(f"\n🔍 Removidas {duplicadas_removidas} questões duplicadas")
+    
+    return questoes_unicas
+
 def extrair_questoes(driver, url):
     """Extrai enunciados e alternativas de uma página"""
     print(f"Acessando: {url}")
@@ -275,11 +305,11 @@ def extrair_questoes(driver, url):
     
     return questoes_json
 
-def salvar_json(todas_questoes, arquivo="enem2022_natureza.json"):
+def salvar_json(todas_questoes, arquivo="enem2018_matematica.json"):
     """Salva todas as questões em um arquivo JSON"""
     dados = {
-        "prova": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
-        "ano": 2022,
+        "prova": "MATEMÁTICA E SUAS TECNOLOGIAS",
+        "ano": 2018,
         "questoes": todas_questoes
     }
     
@@ -342,16 +372,21 @@ try:
             driver.quit()
             exit(1)
     
-    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&field%5B%5D=8&field%5B%5D=10&field%5B%5D=9&institution%5B%5D=1&year%5B%5D=2022&text=&pages=50&order_by=1"
+    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&field%5B0%5D=11&institution%5B0%5D=1&year%5B0%5D=2018&pages=50&order_by=1&page="
     
     todas_questoes = []
     
     print("\n=== INICIANDO EXTRAÇÃO ===\n")
-    for pagina in range(1, 2):
+    for pagina in range(1, 3):
         url = base_url + str(pagina)
         questoes_pagina = extrair_questoes(driver, url)
         todas_questoes.extend(questoes_pagina)
         print(f"Página {pagina}: {len(questoes_pagina)} questões extraídas\n")
+    
+    # Remover duplicadas antes de salvar
+    print(f"\nTotal antes da remoção de duplicadas: {len(todas_questoes)}")
+    todas_questoes = remover_duplicadas(todas_questoes)
+    print(f"Total após remoção de duplicadas: {len(todas_questoes)}")
     
     if len(todas_questoes) > 0:
         salvar_json(todas_questoes)
