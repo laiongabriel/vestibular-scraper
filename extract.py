@@ -275,11 +275,11 @@ def extrair_questoes(driver, url):
     
     return questoes_json
 
-def salvar_json(todas_questoes, arquivo="enem2020_natureza.json"):
+def salvar_json(todas_questoes, arquivo="fuvest2024.json"):
     """Salva todas as questões em um arquivo JSON"""
     dados = {
-        "prova": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS",
-        "ano": 2020,
+        "prova": "USP/FUVEST",
+        "ano": 2024,
         "questoes": todas_questoes
     }
     
@@ -342,12 +342,12 @@ try:
             driver.quit()
             exit(1)
     
-    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&field%5B%5D=8&field%5B%5D=10&field%5B%5D=9&institution%5B%5D=1&year%5B%5D=2020&text=&pages=50&order_by=1"
+    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&institution%5B0%5D=5&year%5B0%5D=2024&pages=50&order_by=1&page="
     
     todas_questoes = []
     
     print("\n=== INICIANDO EXTRAÇÃO ===\n")
-    for pagina in range(1, 2):
+    for pagina in range(1, 4):
         url = base_url + str(pagina)
         questoes_pagina = extrair_questoes(driver, url)
         todas_questoes.extend(questoes_pagina)
