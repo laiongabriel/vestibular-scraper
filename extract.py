@@ -212,10 +212,21 @@ def gerar_chave_unica(questao):
     hash_alternativas = gerar_hash_alternativas(questao['alternativas'])
     return f"{inicio_enunciado}|||{hash_alternativas}"
 
+def tem_link_resposta(alternativas_obj):
+    """Verifica se alguma alternativa contém o texto de redirecionamento"""
+    texto_proibido = "Confira a resposta através do link abaixo:"
+    
+    for letra in ['a', 'b', 'c', 'd', 'e']:
+        chave = f"alternativa_{letra}_txt"
+        conteudo = alternativas_obj.get(chave, "")
+        if texto_proibido in conteudo:
+            return True
+    return False
+
 def remover_duplicadas(questoes):
     """Remove questões duplicadas baseado nos 30 primeiros caracteres do enunciado E alternativas"""
     questoes_unicas = []
-    chaves_vistas = {}  # Mudou para dict para guardar qual questão foi a primeira
+    chaves_vistas = {}
     duplicadas_removidas = 0
     
     for idx, questao in enumerate(questoes, 1):
@@ -239,6 +250,29 @@ def remover_duplicadas(questoes):
         print(f"\n🔍 Total de {duplicadas_removidas} questões duplicadas removidas")
     
     return questoes_unicas
+
+def filtrar_questoes_invalidas(questoes):
+    """Remove questões que contêm alternativas com link de redirecionamento"""
+    questoes_validas = []
+    invalidas_removidas = 0
+    
+    for idx, questao in enumerate(questoes, 1):
+        if tem_link_resposta(questao['alternativas']):
+            invalidas_removidas += 1
+            enunciado_texto = extrair_texto_limpo(questao['enunciado_txt'])
+            
+            print(f"\n    🚫  QUESTÃO INVÁLIDA REMOVIDA:")
+            print(f"       Questão #{idx}")
+            print(f"       Motivo: Contém 'Confira a resposta através do link abaixo:'")
+            print(f"       Enunciado: {enunciado_texto[:150]}{'...' if len(enunciado_texto) > 150 else ''}")
+            print(f"       Assunto: {questao['assunto'][:80] if questao['assunto'] else 'N/A'}")
+        else:
+            questoes_validas.append(questao)
+    
+    if invalidas_removidas > 0:
+        print(f"\n🚫 Total de {invalidas_removidas} questões inválidas removidas")
+    
+    return questoes_validas
 
 def extrair_questoes(driver, url):
     """Extrai enunciados e alternativas de uma página"""
@@ -329,11 +363,11 @@ def extrair_questoes(driver, url):
     
     return questoes_json
 
-def salvar_json(todas_questoes, arquivo="fuvest2018.json"):
+def salvar_json(todas_questoes, arquivo="fuvest2010.json"):
     """Salva todas as questões em um arquivo JSON"""
     dados = {
         "prova": "USP/FUVEST",
-        "ano": 2018,
+        "ano": 2010,
         "questoes": todas_questoes
     }
     
@@ -396,7 +430,7 @@ try:
             driver.quit()
             exit(1)
     
-    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&institution%5B0%5D=5&year%5B0%5D=2018&pages=50&order_by=1&page="
+    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&institution%5B0%5D=5&year%5B0%5D=2010&pages=50&order_by=1&page="
     
     todas_questoes = []
     
@@ -407,8 +441,15 @@ try:
         todas_questoes.extend(questoes_pagina)
         print(f"Página {pagina}: {len(questoes_pagina)} questões extraídas\n")
     
-    # Remover duplicadas antes de salvar
-    print(f"\nTotal antes da remoção de duplicadas: {len(todas_questoes)}")
+    # Filtrar questões inválidas primeiro
+    print(f"\n=== FILTRANDO QUESTÕES INVÁLIDAS ===")
+    print(f"Total antes da filtragem: {len(todas_questoes)}")
+    todas_questoes = filtrar_questoes_invalidas(todas_questoes)
+    print(f"Total após filtragem: {len(todas_questoes)}")
+    
+    # Remover duplicadas depois
+    print(f"\n=== REMOVENDO DUPLICADAS ===")
+    print(f"Total antes da remoção de duplicadas: {len(todas_questoes)}")
     todas_questoes = remover_duplicadas(todas_questoes)
     print(f"Total após remoção de duplicadas: {len(todas_questoes)}")
     
