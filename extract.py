@@ -186,33 +186,57 @@ def extrair_dificuldade(elemento_pai):
     except:
         return ""
 
-def extrair_inicio_enunciado(enunciado, tamanho=10):
+def gerar_hash_alternativas(alternativas_obj):
+    """Gera uma string única representando todas as alternativas"""
+    # Concatena todas as alternativas na ordem a, b, c, d, e
+    concatenado = ""
+    for letra in ['a', 'b', 'c', 'd', 'e']:
+        chave = f"alternativa_{letra}_txt"
+        concatenado += alternativas_obj.get(chave, "")
+    return concatenado
+
+def extrair_texto_limpo(html):
+    """Remove tags HTML e retorna texto puro"""
+    texto = re.sub(r'<[^>]+>', '', html)
+    texto = re.sub(r'\s+', ' ', texto).strip()
+    return texto
+
+def extrair_inicio_enunciado(html, tamanho=30):
     """Extrai os primeiros N caracteres do enunciado (sem HTML)"""
-    # Remove todas as tags HTML
-    texto_limpo = re.sub(r'<[^>]+>', '', enunciado)
-    # Remove espaços extras e quebras de linha
-    texto_limpo = re.sub(r'\s+', ' ', texto_limpo).strip().lower()
-    # Retorna os primeiros N caracteres
-    return texto_limpo[:tamanho]
+    texto_limpo = extrair_texto_limpo(html)
+    return texto_limpo[:tamanho].lower()
+
+def gerar_chave_unica(questao):
+    """Gera uma chave única combinando início do enunciado + alternativas"""
+    inicio_enunciado = extrair_inicio_enunciado(questao['enunciado_txt'], tamanho=30)
+    hash_alternativas = gerar_hash_alternativas(questao['alternativas'])
+    return f"{inicio_enunciado}|||{hash_alternativas}"
 
 def remover_duplicadas(questoes):
-    """Remove questões duplicadas baseado nos primeiros 20 caracteres do enunciado"""
+    """Remove questões duplicadas baseado nos 30 primeiros caracteres do enunciado E alternativas"""
     questoes_unicas = []
-    inicios_vistos = set()
+    chaves_vistas = {}  # Mudou para dict para guardar qual questão foi a primeira
     duplicadas_removidas = 0
     
-    for questao in questoes:
-        inicio_enunciado = extrair_inicio_enunciado(questao['enunciado_txt'], tamanho=10)
+    for idx, questao in enumerate(questoes, 1):
+        chave_unica = gerar_chave_unica(questao)
         
-        if inicio_enunciado not in inicios_vistos:
-            inicios_vistos.add(inicio_enunciado)
+        if chave_unica not in chaves_vistas:
+            chaves_vistas[chave_unica] = idx
             questoes_unicas.append(questao)
         else:
             duplicadas_removidas += 1
-            print(f"    ⚠️  Questão duplicada removida (início: '{inicio_enunciado}')")
+            questao_original = chaves_vistas[chave_unica]
+            enunciado_texto = extrair_texto_limpo(questao['enunciado_txt'])
+            
+            print(f"\n    ⚠️  QUESTÃO DUPLICADA REMOVIDA:")
+            print(f"       Questão #{idx} é duplicata da Questão #{questao_original}")
+            print(f"       Motivo: 30 primeiros caracteres do enunciado + alternativas idênticas")
+            print(f"       Enunciado: {enunciado_texto[:150]}{'...' if len(enunciado_texto) > 150 else ''}")
+            print(f"       Assunto: {questao['assunto'][:80] if questao['assunto'] else 'N/A'}")
     
     if duplicadas_removidas > 0:
-        print(f"\n🔍 Removidas {duplicadas_removidas} questões duplicadas")
+        print(f"\n🔍 Total de {duplicadas_removidas} questões duplicadas removidas")
     
     return questoes_unicas
 
@@ -305,10 +329,10 @@ def extrair_questoes(driver, url):
     
     return questoes_json
 
-def salvar_json(todas_questoes, arquivo="enem2018_matematica.json"):
+def salvar_json(todas_questoes, arquivo="fuvest2018.json"):
     """Salva todas as questões em um arquivo JSON"""
     dados = {
-        "prova": "MATEMÁTICA E SUAS TECNOLOGIAS",
+        "prova": "USP/FUVEST",
         "ano": 2018,
         "questoes": todas_questoes
     }
@@ -372,7 +396,7 @@ try:
             driver.quit()
             exit(1)
     
-    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&field%5B0%5D=11&institution%5B0%5D=1&year%5B0%5D=2018&pages=50&order_by=1&page="
+    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&institution%5B0%5D=5&year%5B0%5D=2018&pages=50&order_by=1&page="
     
     todas_questoes = []
     
