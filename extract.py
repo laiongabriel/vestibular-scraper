@@ -363,11 +363,11 @@ def extrair_questoes(driver, url):
     
     return questoes_json
 
-def salvar_json(todas_questoes, arquivo="fuvest2010.json"):
+def salvar_json(todas_questoes, arquivo="enemppl2024_matematica.json"):
     """Salva todas as questões em um arquivo JSON"""
     dados = {
-        "prova": "USP/FUVEST",
-        "ano": 2010,
+        "prova": "MATEMÁTICA E SUAS TECNOLOGIAS - PPL",
+        "ano": 2024,
         "questoes": todas_questoes
     }
     
@@ -430,12 +430,12 @@ try:
             driver.quit()
             exit(1)
     
-    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&institution%5B0%5D=5&year%5B0%5D=2010&pages=50&order_by=1&page="
+    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&field%5B%5D=11&institution%5B%5D=2&year%5B%5D=2024&text=&pages=50&order_by="
     
     todas_questoes = []
     
     print("\n=== INICIANDO EXTRAÇÃO ===\n")
-    for pagina in range(1, 3):
+    for pagina in range(1, 2):
         url = base_url + str(pagina)
         questoes_pagina = extrair_questoes(driver, url)
         todas_questoes.extend(questoes_pagina)
