@@ -363,10 +363,10 @@ def extrair_questoes(driver, url):
     
     return questoes_json
 
-def salvar_json(todas_questoes, arquivo="enemppl2018_linguagens.json"):
+def salvar_json(todas_questoes, arquivo="enemppl2018_matematica.json"):
     """Salva todas as questões em um arquivo JSON"""
     dados = {
-        "prova": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS - PPL",
+        "prova": "MATEMÁTICA E SUAS TECNOLOGIAS - PPL",
         "ano": 2018,
         "questoes": todas_questoes
     }
@@ -430,7 +430,7 @@ try:
             driver.quit()
             exit(1)
     
-    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&field%5B%5D=12&field%5B%5D=23&field%5B%5D=1&field%5B%5D=3&field%5B%5D=2&institution%5B%5D=2&year%5B%5D=2018&text=&pages=50&order_by=1"
+    base_url = "https://app.repertorioenem.com.br/questions/list?search=1&field%5B%5D=11&institution%5B%5D=2&year%5B%5D=2018&text=&pages=50&order_by=1"
     
     todas_questoes = []
     
