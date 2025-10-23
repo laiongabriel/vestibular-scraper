@@ -4,6 +4,6 @@ LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS: Português, Literatura, Artes, Inglês 
 
 CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS: História, Geografia, Filosofia, Sociologia.
 
-CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS: Biologia, Química Física.
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS: Biologia, Química e Física.
 
 MATEMÁTICA E SUAS TECNOLOGIAS: Matemática.
