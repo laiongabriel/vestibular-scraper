@@ -1,0 +1,591 @@
+{
+  "prova": "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS - ENEM DIGITAL",
+  "ano": 2020,
+  "questoes": [
+    {
+      "assunto": "História; História Geral; Idade Média; Alta Idade Média",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Certos músicos agradavam tanto ao público da Corte por seu talento especial como virtuose ou como compositor, que sua fama se espraiava para além da Corte local onde estavam empregados, chegando aos mais altos níveis. Eram chamados para tocar nas Cortes dos poderosos, como aconteceu com Mozart; imperadores e reis exprimiam abertamente prazer com sua arte e admiração por suas realizações. Tinham permissão para jantar à mesma mesa — normalmente em troca de uma execução ao piano; muitas vezes se hospedavam em seus palácios quando viajavam e assim conheciam intimamente seu estilo de vida e seu gosto.<br><i>ELIAS, N. Mozart, sociologia de um gênio. Rio de Janeiro: Jorge Zahar, 1995 (adaptado).</i></p><p>Com base no caso descrito, qual elemento histórico do Antigo Regime contrasta com o trânsito de intelectuais e artistas pelas Cortes?</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>Rigidez das estruturas sociais.</p>",
+        "alternativa_b_txt": "<p>Fragmentação do poder estatal.</p>",
+        "alternativa_c_txt": "<p>Autonomia de profissionais liberais.</p>",
+        "alternativa_d_txt": "<p>Harmonia das relações interindividuais.</p>",
+        "alternativa_e_txt": "<p>Racionalização da administração pública.</p>"
+      },
+      "alternativa_correta": "<p>A</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Econômica; Agricultura; Agricultura brasileira",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p>&nbsp; &nbsp;A trilha de expansão traçada pela soja brasileira nas últimas duas décadas começa a ser seguida pelo trigo. Com o cultivo consagrado e concentrado na Região Sul, agora o cereal se ampara na pesquisa para conquistar áreas de cultivo no Centro-Oeste brasileiro. Nas últimas cinco safras, a triticultura cresceu 33% em área e 76% em volume de produção na região. O quadro desperta otimismo do setor para investir em inovação, mirando uma expansão ainda maior do plantio nos próximos anos.</p><p>Disponível em: http://sfagro.uol.com.br. Acesso em: 30 nov. 2017.</p><p>O fator que explica a expansão do cereal em destaque no texto pelo território nacional é a&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>inserção de agricultura orgânica.</p>",
+        "alternativa_b_txt": "<p>utilização de trabalho familiar.</p>",
+        "alternativa_c_txt": "<p>admissão de irrigação tradicional.</p>",
+        "alternativa_d_txt": "<p>introdução de sementes adaptadas.</p>",
+        "alternativa_e_txt": "<p>inclusão de culturas itinerantes.</p>"
+      },
+      "alternativa_correta": "<p>D</p>"
+    },
+    {
+      "assunto": "História; História Geral; Idade Média; Cruzadas",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Constantinopla, aquela cidade vasta e esplêndida, com toda a sua riqueza, sua ativa população de mercadores e artesãos, seus cortesãos em seus mantos civis e as grandes damas ricamente vestidas e adornadas, com seus séquitos de eunucos e escravos, despertaram nos cruzados um grande desdém, mesclado a um desconfortável sentimento de inferioridade.</p><p>RUNCIMAN, S. <strong>A Primeira Cruzada e a fundação do Reino de Jerusalém</strong>. Rio de Janeiro: Imago, 2003 (adaptado).</p><p>A reação dos europeus quando defrontados com essa cidade ocorreu em função das diferenças entre Oriente e Ocidente quanto aos(às)<br>&nbsp;</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>modos de organização e participação política.</p>",
+        "alternativa_b_txt": "<p>níveis de disciplina e poderio bélico do exército.</p>",
+        "alternativa_c_txt": "<p>representações e práticas de devoção politeístas.</p>",
+        "alternativa_d_txt": "<p>dinâmicas econômicas e culturais da vida urbana.</p>",
+        "alternativa_e_txt": "<p>formas de individualização e desenvolvimento pessoal.</p>"
+      },
+      "alternativa_correta": "<p>D</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Econômica; Agricultura; Agricultura brasileira",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Vive-se a Revolução Verde. Trata-se da disseminação de novas práticas, permitindo um vasto aumento na produção. O modelo baseia-se na intensiva utilização de sementes melhoradas (particularmente das híbridas), assim como no uso sistemático de insumos industriais (fertilizantes e agrotóxicos), no recurso à irrigação e na mecanização do trabalho.</p><p><i>DEL PRIORE, M.; VENÂNCIO, R. Uma história da vida rural no Brasil. Rio de Janeiro: Ediouro, 2006 (adaptado).</i></p><p>No Brasil, uma desvantagem para o pequeno produtor provocada pela expansão do modelo agrícola descrito é a</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>estagnação da atividade agroindustrial.</p>",
+        "alternativa_b_txt": "<p>diminuição da lavoura monocultora.</p>",
+        "alternativa_c_txt": "<p>restrição do controle de pragas.</p>",
+        "alternativa_d_txt": "<p>elevação do custo de cultivo.</p>",
+        "alternativa_e_txt": "<p>redução do emprego formal.</p>"
+      },
+      "alternativa_correta": "<p>D</p>"
+    },
+    {
+      "assunto": "História; História do Brasil; República Oligárquica; Política dos governadores",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p><blockquote><p>Chamando o repórter de “cidadão”, em 1904, o preto acapoeirado justificava a revolta: era para “não andarem dizendo que o povo é carneiro. De vez em quando é bom a negrada mostrar que sabe morrer como homem!”. Para ele, a vacinação em si não era importante — embora não admitisse de modo algum deixar os homens da higiene meter o tal ferro em suas virilhas. O mais importante era “mostrar ao governo que ele não põe o pé no pescoço do povo”.</p><p><i>CARVALHO, J. M. Os bestializados: o Rio de Janeiro e a República que não foi. São Paulo: Cia. das Letras, 1987 (adaptado).</i></p></blockquote><p>A referida Revolta, ocorrida na cidade do Rio de Janeiro no início da República, caracterizou se por ser uma</p></p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>agitação incentivada pelos médicos.</p>",
+        "alternativa_b_txt": "<p>atitude de resistência dos populares.</p>",
+        "alternativa_c_txt": "<p>estratégia elaborada pelos operários.</p>",
+        "alternativa_d_txt": "<p>tática de sobrevivência dos imigrantes.</p>",
+        "alternativa_e_txt": "<p>ação de insurgência dos comerciantes.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "História; História do Brasil; Segundo Reinado; Escravidão",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p><strong>Lei n. 3 353, de 13 de maio de 1888</strong></p><p>&nbsp; &nbsp;A Princesa Imperial Regente, em nome de Sua Majestade o Imperador, o Senhor D. Pedro II, faz saber a todos os súditos do Império que a Assembleia-Geral decretou e ela sancionou a lei seguinte:</p><p>&nbsp; &nbsp;Art. 1º: É declarada extinta desde a data desta lei a escravidão no Brasil.</p><p>&nbsp; &nbsp;Art. 2º: Revogam-se as disposições em contrário.&nbsp;</p><p>&nbsp; &nbsp;Manda, portanto, a todas as autoridades, a quem o conhecimento e execução da referida lei pertencer, que a cumpram, e façam cumprir e guardar tão inteiramente como nela se contém.&nbsp;</p><p>&nbsp; &nbsp;Dada no Palácio do Rio de Janeiro, em 13 de maio de 1888, 67º ano da Independência e do Império.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Princesa Imperial Regente.</p><p><i>Disponível em: www.planalto.gov.br. Acesso em: 6 fev. 2015 (adaptado).&nbsp;</i></p><p>Um dos fatores que levou à promulgação da lei apresentada foi o(a)</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>abandono de propostas de imigração.&nbsp;</p>",
+        "alternativa_b_txt": "<p>fracasso do trabalho compulsório.</p>",
+        "alternativa_c_txt": "<p>manifestação do altruísmo britânico.</p>",
+        "alternativa_d_txt": "<p>afirmação da benevolência da Corte.</p>",
+        "alternativa_e_txt": "<p>persistência da campanha abolicionista.</p>"
+      },
+      "alternativa_correta": "<p>E</p>"
+    },
+    {
+      "assunto": "Filosofia; Filosofia Clássica; Sócrates e Sofistas",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Há um tempo, belas e boas são todas as ações justas e virtuosas. Os que as conhecem nada podem preferir-lhes. Os que não as conhecem, não somente não podem praticá-las como, se o tentam, só cometem erros. Assim praticam os sábios atos belos e bons, enquanto os que não o são só podem descambar em faltas. E se nada se faz justo, belo e bom que não pela virtude, claro é que na sabedoria se resumem a justiça e todas as mais virtudes.</p><p>XENOFONTE. Ditos e feitos memoráveis de Sócrates. <i>Apud</i> CHALITA, G. Vivendo a filosofia. São Paulo: Ática, 2005.</p><p>Ao fazer referência ao conteúdo moral da filosofia socrática narrada por Xenofonte, o texto indica que a vida virtuosa está associada à<br>&nbsp;</p><p><br>&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>aceitação do sofrimento como gênese da felicidade suprema.</p>",
+        "alternativa_b_txt": "<p>moderação dos prazeres com vistas à serenidade da alma.</p>",
+        "alternativa_c_txt": "<p>contemplação da<i> physis </i>como fonte de conhecimento.</p>",
+        "alternativa_d_txt": "<p>satisfação dos desejos com o objetivo de evitar a melancolia.</p>",
+        "alternativa_e_txt": "<p>persecução da verdade como forma de agir corretamente.</p>"
+      },
+      "alternativa_correta": "<p>E</p>"
+    },
+    {
+      "assunto": "História; História Geral; Idade Contemporânea; Neocolonialismo",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p><blockquote><p>Na primeira bica abasteciam os negros, forros e cativos, os mulatos e os índios; na segunda, os moiros das galés, e os da primeira bica, quando fosse necessário; a terceira e quarta estavam reservadas aos homens e moços brancos; na quinta enchiam as mulheres pretas e na sexta, as mulheres e moças brancas. A quem infringisse esta ordem eram aplicados severos castigos — açoitamento com baraço e pregão, ao redor do Chafariz, sendo de cor; 2 000 réis de multa e três dias de cadeia, sendo branco o prevaricador.</p><p><i>CAETANO, J. O. Chafarizes de Lisboa. Lisboa: Distri, 1991.</i></p></blockquote><p>A organização dos consumidores nos chafarizes públicos de Lisboa no século XVI, descrita no texto, expressava a</p></p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>escassez de recursos hídricos.</p>",
+        "alternativa_b_txt": "<p>reprodução de distinções sociais.</p>",
+        "alternativa_c_txt": "<p>prevenção da transmissão de doenças.</p>",
+        "alternativa_d_txt": "<p>obsolescência das técnicas de fornecimento.</p>",
+        "alternativa_e_txt": "<p>ineficiência da cobertura de serviços estatais.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "História; História do Brasil; Brasil Colônia; Escravidão",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p>As pessoas do Rio de Janeiro se fazem transportar em cadeirinhas bem douradas sustentadas por negros. Esta cadeira é seguida por um ou dois negros domésticos, trajados de librés mas com os pés nus. Se é uma mulher que se transporta, ela tem frequentemente quatro ou cinco negras indumentadas com asseio; elas vão enfeitadas com muitos colares e brincos de ouro. Outras são levadas em uma rede. Os que querem andar a pé são acompanhados por um negro, que leva uma sombrinha ou guarda-chuva, como se queira chamar.</p><p><i>LARA, S. H. Fragmentos setecentistas. São Paulo: Cia. das Letras, 2007 (adaptado).</i></p><p>Essas práticas, relatadas pelo capelão de um navio que ancorou na cidade do Rio de Janeiro em dezembro de 1748, simbolizavam o seguinte aspecto da sociedade colonial:</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>A devoção de criada aos proprietários, como expressão da harmonia do elo patriarcal.</p>",
+        "alternativa_b_txt": "<p>A utilização de escravos bem-vestidos em atividades degradantes, como marca da hierarquia social.</p>",
+        "alternativa_c_txt": "<p>A movimentação de séquitos nos passeios, como evidência do medo da violência nos centros urbanos.</p>",
+        "alternativa_d_txt": "<p>A inserção de cativos na prestação de serviços pessoais, como fase de transição para o trabalho livre.</p>",
+        "alternativa_e_txt": "<p>A concessão de vestes opulentas aos agregados, como forma de amparo concedida pela elite senhorial.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "História; História do Brasil; Segundo Reinado; Escravidão",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Associados a atividades importantes e variadas na evolução das sociedades americanas modernas, os africanos conseguiram impor sua marca nas línguas, culturas, economias, além de participar, quase invariavelmente, na composição étnica das comunidades do Novo Mundo. A sua influência alcançou mais fortemente as regiões do latifúndio agrícola, em comunidades cujo desenvolvimento ocorreu às margens do Atlântico e do mar das Antilhas, do sudeste dos Estados Unidos até a porção nordeste do Brasil, e ao longo das costas do Pacífico, na Colômbia, no Equador e no Peru.</p><p><i>KNIGHT, F. W. A diáspora africana. In: AJAYI, J. F. A. (Org.). História geral da África: África do século XIX à década de 1880. Brasília: Unesco, 2010 (adaptado).</i></p><p>Uma das contribuições da diáspora descrita no texto para o continente americano foi o(a)</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>fim da escravidão indígena.</p>",
+        "alternativa_b_txt": "<p>declínio de monoculturas locais.</p>",
+        "alternativa_c_txt": "<p>introdução de técnicas produtivas.</p>",
+        "alternativa_d_txt": "<p>formação de sociedades estamentais.</p>",
+        "alternativa_e_txt": "<p>desvalorização das capitanias hereditárias.</p>"
+      },
+      "alternativa_correta": "<p>C</p>"
+    },
+    {
+      "assunto": "História; História do Brasil; Ditadura Militar",
+      "dificuldade": "Difícil",
+      "enunciado_txt": "<p>O jovem que nasceu e cresceu sob a ditadura perdeu muitos contatos com a realidade e com a história como processo vivo. Mas conheceu em sua carne o que é a opressão e como a repressão institucional (às vezes inconsciente e definitiva, dentro da família, da escola etc.) é odiosa. Essa é uma riqueza ímpar. O potencial radical de um jovem — pobre, de pequena burguesia ou “rico” — que sofre prolongadamente uma experiência dessas, constitui um agente político valioso. Ele está “embalado” para rejeitar e combater a opressão sistemática e a repressão dissimulada, o que o converte em um ser político inconformista promissor.</p><p><i>FERNANDES, F. O dilema político dos jovens. In: Florestan Fernandes na constituinte: leituras para reforma política. São Paulo: Expressão Popular, 2014.</i></p><p>No contexto mencionado, Florestan Fernandes tematiza um efeito inesperado do exercício do poder político decorrente da<br>&nbsp;</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>evolução histórica do conflito de gerações.</p>",
+        "alternativa_b_txt": "<p>fragilidade moral das instituições públicas.</p>",
+        "alternativa_c_txt": "<p>impossibilidade de realização do controle total.</p>",
+        "alternativa_d_txt": "<p>legitimação ideológica do nacionalismo estatal.</p>",
+        "alternativa_e_txt": "<p>restrição da oferta de oportunidades de educação.</p>"
+      },
+      "alternativa_correta": "<p>C</p>"
+    },
+    {
+      "assunto": "Filosofia; Filosofia Moderna; Contratualistas; Hobbes e Rousseau",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>O fim último, causa final e desígnio dos homens, ao introduzir uma restrição sobre si mesmos sob a qual os vemos viver nos Estados, é o cuidado com sua própria conservação e com uma vida mais satisfeita; quer dizer, o desejo de sair da mísera condição de guerra que é a consequência necessária das paixões naturais dos homens, como o orgulho, a vingança e coisas semelhantes. É necessário um poder visível capaz de mantê-los em respeito, forçandoos, por medo do castigo, ao cumprimento de seus pactos e ao respeito às leis, que são contrárias a nossas paixões naturais.</p><p>HOBBES, T. M. <strong>Leviatã</strong>. São Paulo: Nova Cultural, 1999 (adaptado).</p><p>Para o autor, o surgimento do estado civil estabelece as condições para o ser humano</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>internalizar os princípios morais, objetivando a satisfação da vontade individual.</p>",
+        "alternativa_b_txt": "<p>aderir à organização política, almejando o estabelecimento do despotismo.</p>",
+        "alternativa_c_txt": "<p>aprofundar sua religiosidade, contribuindo para o fortalecimento da Igreja.</p>",
+        "alternativa_d_txt": "<p>assegurar o exercício do poder, com o resgate da sua autonomia.</p>",
+        "alternativa_e_txt": "<p>obter a situação de paz, com a garantia legal do seu bem-estar.</p>"
+      },
+      "alternativa_correta": "<p>E</p>"
+    },
+    {
+      "assunto": "História; História Geral; Idade Contemporânea; Era Napoleônica",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><figure style=\"width:19.92%;\"><img src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAlgCWAAD/2wBDADIiJSwlHzIsKSw4NTI7S31RS0VFS5ltc1p9tZ++u7Kfr6zI4f/zyNT/16yv+v/9////////wfD/////////////wAALCAJYAZEBAREA/8QAGgAAAgMBAQAAAAAAAAAAAAAAAgMAAQQFBv/EADkQAAICAQMDAgMFBwQDAQEBAAECABEDEiExBEFRImETMnEFFFOBkRUjQlJyobEkNENiM8HR4ZLx/9oACAEBAAA/AOpMmTr1RmX4bHSa2Ii2+1EXnE/6iMydeMeFMjYmp+BYgH7TQC/ht+ogftfH+E/6iT9r4/wn/US/2vj/AAn/AFEn7Wx/hP8AqJP2tj/Cf9RL/auPf90+3uJX7Wx/hP8AqJX7Xx/hP+olj7Vxkf8Aif8AUSftZPwn/US/2qn4T/qJP2on4b/qJY+00P8Axt+okP2on4bfqJX7Vx/ht+ohL9pI3/G36iX+0E/kb9RDHWKT8pkPWKDWkyffV/laWOrUn5TL+9LXBgffl/kb9YP7QT+RpP2in4bf2lftJPw2/tIftJB/xt+ok/aSfht+ok/aSfyN+olftNPw2/USD7TQ/wDG36iX+0k/Db9RJ+0k/Db9RJ+0k/Db9RJ+0k/Db9RIftJB/wAbfqIJ+1cY/wCNv1ENvtFBXoYk8SftBCtrjY+wl/tBPh69DfSUv2gjY9ehpQ+0kLEfDa/qIP7Ux/ht+ohJ9pI+VUGNgWIHIm2SScbM1dRl/qMzZW9Qjj1GvEg0j0Wd/eJLVyYvmSSXUqWZUqGnMut5ZEqGPllcwTDSNXkR42Mh3NSwnEMrxX5yuBxM/fiCwqUYMurNyjBJkMofpLFwt5LuXKPEWwvxG43DKAefeMGNQbDMPYGRyNGleBKUFMQUjcxS75GI43gCM6f/AHeL+sf5nekknHzgfeMv9RmLKbcx3SqGxZbF0BEPzKEuSXJIeZUkscxhG4lGV3hg7SVtAPEJBvGKNxHrzUOrPEIGGPEFgwB4mcneAxsSoJPvJqNSjZlCSXLEuQ1KkO8ED1CGcNbqfylDG3gH84xUrdiNuAOBIzFVL9zssDEv7tmrnaLG8Pp/91i/rH+Z3pJJxuqB+Nl8ajMRt24qaulpceUf9ZmYcn3gQpUsS1FsBLPMqQyo8lSiFbut4BkAEkYRSRbcSKeI5OY9QAd94fMsDeWCZHPoP0mQmuZRkOwgGTtKuS5Q5hyGQE3IT5kJ8Srlpuwj22lUAO1yhbOF7Ddj7RTt8bJfbhR4EewAx0OAJlEPp/8Ad4v6x/md6SScnqlLZ3ryZmOLvDxCsWQe0SASh8XFd5dypctPmEI8ypRlRuHcV7xjoV5FWLiyJBtGkgoBEkcyhcdjO/E0XvCUm7jR5lDjtKyEaT9JlIuVIYs3chkq5KMviUCZO8s7SrlGQVzDQesfWOrmUTQJ8QMraMIQXqybn6SsAslvGwjifQfpMohdOf8AV4v6x/md6SSYM2MnI1nuYooG2oUIp/SGA8RSV8M+buDoRl32YxLAqaMkktfmEJuTJyIQw5GFjGxH0hYenbIzavSEFkkSsf7vNVgjyOI/OyjKFDathuDdyDGlhXcqzcAC6+sE4HDEUNu5NSmBAFjtFHmUsanImgcgRg4FCFwZDXiLy7p7TPvKMhEGvrK4lg78yr95ORLAqTgyG+8HzK45kuHjPrFR45gZSRpG1ExWZtXUNuCAIzBeiNbZD9JkB2h9P/usX9Y/zO9JJMmRGZ2s0L7QWFChMeRk1OrGjVRAbkQ1psYU83zA6iuR22iRLI25lDmG3zTV0ilVbIApYnSurgHzIGQk0C9Cy7sd/oJeDP6WJBBBBoG5mZkLAqhXyL5jrYODoAH5SJkb4qr6quyLi2yNrYqSoY3L1liCfoQP8wGu94I2ManzCaRZbaNXaW20G/eBk+UzNL7SE+8Hke0g57y68CURIBtIJO5kgwdzJdjaMxA6xNCg+Irqd6AiSoVrFlY/AbWu1xjj0n6TIOIfT/7vF/WP8zvSSTHlypqZS3BqIyZVG4P1i7BVz5HMyWTq8wkO4l5VF1d3Ed5Z4ElS22MdjDPjZVaq3EmllNMNqraGmM49Zo7KQL8xXwn+GMh+XmPC3jUWLqCP3QfLVlTQ+vmJALC5ar678SjzKPMYhthNePc3CvfaWxBMDjiA7Ag788RB22lgyjvIeJBzJe+0nJlyqNyUd4JBlV7SpAIzEPWJoG0DMrFbEzMH0mhtNHToVTfvGsp0H6TIBtNHRYC+ZXrZSN515JJzOoUfFfSfUWPMzMtGiQT3hj5X+kzcBj7whsJHY2L7CJlyDmE3Yx3RFRmGttIG9zb8JXx6SpUXtZrYGEUFsFKAXqJJurgsuFFyJ8RVDAUOag/GxLkxv8RTpFVUz5cmEq6hyS5s+B3hDLjDALpAUaV27ReouzEgD6Qa3gPsYeLkTQu3EbdCCTvK5EmIYiWGX0/XiBlxBXyKTZHFQMmPQLUh18iBcl+ZCZBxLWTaVe3iS/EowCKEreEDXeHjN5BNBsSmchbG8zZnHxAQCCB4qPxsStttcNmGg/SZ8CfEyqvYmHjznJ1mNQSuMOAqj6ztSSTk9QjjO7BWPqMTq3JK1GoQcT/SIw4hkyqD3apWnSxvsSKhfwtt2maSWOIQ3FSD0kEHiaR1Kfg2T3JmvK7JgXJhVXU832lrq6np1yoQuVfHEyPkzK9Mcf6Q/hasBfIFLE0KGw+sR8Mo5AK2p5HeQCjzLKiid77RTjiFj+YTUgjCaElX2lESmU8r+hl48WM7KWPc94tkVcgAOpCPFTJnQo1KWI7XB0PV7wdTDYw0cHbvGr9JfI4gneVLgm5VSCEnziOyMRj25gekFdRJvmzsJWY42O7Ft9qO0TuD6bA+s0YyxxHVftL6W/jrUDo8Zfqk3oq4JH5zuySTGWBZ6O+ozNlsNfKmDi2xPJ0o1hgFsh7G+w94zL0xSiACvf6+YkgAbcTGeZUIfKJa/NKIMk29B1GlvhturTX8I4cgfD8hPqEDqcQP7xRcDpD8XHkxHba5mKMrsDyNpaoXbYGaDjQLpckkntMmZCp9uxlY61iaV4hg3tCl1fMT1JYJSjc+IWDo8layxQjgLwIpmY5XR6+IDQ7WJQORShbHsp48xWUbMt97Ue0SUKCzRqBe8fja1hXBupYMomVLuxJ2uXj3cR9WDXMUSEsvh1X3uKcgnZNNSAM5oCagrLiomzUHpDXU4z7x6n4PXAKuzNV/nOnJJOVrrq8o7Mx/WRgXFVXaE6aEIAr0yfZ3GT+qbW44mPqMWkFlFDuJzShskAkQTGNQVa8Qbl8iUYWNtLgjkGdpG+IoddiRZHmGQClATOqHG9jvzMzV8chjQJu5tw4Bj37kfpAYBUKsLs3sO8p8YyYaNV9KmJsWjLV//scOJYXaFW0sX5jsGO9z9JqqhOX9qIpZWAGrzM+LK6sPinbsTHZQGJ9SWO53qYnUqt9rqKjMLaW9o5oJkvaUTK5lr9ZL0k+JeLdxNQuC59JB4qZsikFQy1qFiO6YUhFb3HG9J+kDplIJYCzdCacyf6nG3Yup/vN8kk5GavvOQ9wx4jca1VDfwe5l5lKBrO5Wz7yfZtFcn9U2nnmJy3Uw5gVNrsDzM9gEgi7lMBpFfSL7wgKoyMKlA0Z0ei6oaPhudx8pm1WDby3CAW5AmPLiTIxOM7fWa8B1YgZn6jOMeQKQDfvUcK0bTPlWwRx7xCmtm2P+YxeIz85IwZnxKtJqW6Ncx/xVJq6PgzH1+DJkFoLHicx1dVpo/pshyekr+kPOoFqVGoflMbqRR7GCvImqrEA+0GSQ32Eig/8A5IRtvCwj94JrreLzKdIAIFnkxefSzrRFLtzcmI1loGxNNWD9IWLA9AhwPappCErj1EMVYCwPeaZJJy2UnqslfzGaunSych3HC/SL6zlv6YH2aP3eX+qbDvFZD6amPLW8yNt2G0l2vEmP59luTJXgSLTIQRuIFQkNTd0/UEY2r5uBNq4wFDMQdtyYGTFjYXpKgdwaicGZMOUqSdLcfWNy4EyPqYWRxCQeiLyGIyrq/qHEHG9gERymS7IE2LjATSe/MRh6d/iFsrFqOxM0tQE4v2gB8ckAiKCBVXUSFPiOy0ugsTta3F5dLrXFeN4nGtmaNqgGDIIYXe4XEorYkxj94P8AE1CC1Fd5ly49KBgK3om43AtLe28axYLYIHuYzL1D48KMujURvD6LO+RguTJjYtuFXkTfJJMCYtWbISfmc/pc2KNtthMvVrZc+EgfZfyZf6psNXxM+bkb1MrkHiZ8inkcQAIS7HmpWSrYeYCfNUtpSzodHiOkNVm7nQSmUEivaQqDRI/WY82I5Lbc70B4l4cvp+Gxpx57x68HeKetW8Vl3FxAP7yvMcIzEVDam2A3jU6tHrRZ3o7cR91FZDYmTMi3ZFmBlTDjwqzAM5o/SZOpyNlYEilHAgYnAb1duKjFo77WdzULTAqVUJVswu+x2lyBSeAZa46yCwRHAgQXBo1zM+TK1KCoA+kLpixLE8Gaq1DSRzKVfjZ2oClFAR6YVHUDIukWbO02ySRGNDryMe7H9I2pi6wvrcBQQVFGB9mXeX+Wx+s2MSDuaEzZQa5mZgSZSpZo8HaII0sQe0h2gmUuzgw8g3lIN52elQKmwqNP9jCq4LpakDa5my9Np9SD1DvBxZrJxuaeWwsxeQD5dW/iZj8w37x445hrxuY3HlKgKNO/k94wE8OKPtxKcjTcy5G1QceEZLJ7RXU4R24EzJivJV0IYX0qb3uEYNSlA7xkLHiOVqWbU6NVG9E95ec/CT0LZ+kR+8yILAX68xDu2NqYbeahXY2MRmHzb8ERvTj92PrHnUFtDTcAydPhOPJqOUk9xXMd8QnMoHGoTbJJBHJliZOrHqY/9Ir7L3Gb6ibGEyZyq2Ad5nB7wQ1HaLy2SD+sCrXbtBEo/NGPuBKx2GnawG8QIhpZDBiTv3hIe3cbQpRFiZOo6YNbLsfaZsWVlOnLe3eTMp+IWsV7RLHb3JE0VLs1GYCpyeqqh5sqA0DvKVXyKKG3vLHSA3bWZBiyYqrSV8ASEI5HxMdHx2ic2HAisygg+x/xMfGx2rcbcyarHtKH0kCmF9BN3SAKtd5qJAESclG5nzZrFCZsh1JcDAxJKn6iVnUDV+UZ01/DEe9/COwJ8GCMQX1FNDDggkQ0yD42MVuWFzpySQe5lzH1nzt/TA+yh6Mv9U1tzMGfnfzvM/5yxtLcViYfT8orHyy+YJBgkQx6k+kiczqdE14yp5UzWJR23hA3JKImTqMOrcVfiIwdNberITZ+UdpoPRLtRIo3L+7GuYt8LA8XKXA7dtpowdMuM3VnyY0sqsFJAJ4HmEeNolmy/wAh/WZuodguplUD2aBg3YKwJR+/gwcnR5DuGVq3B9pmAp6O0vUL5EhO/Eva5u6fZT7mOd9IuJDqTd/lM3UCyTY+lxF8XAxkfH2EZlUuCRWwEnTmsdcEGOyuEx2x54qCGyZAoY0vm5MQA6rHpN+of5nYkkg95cx9Z8zf0wfsv5Mv9U1PuDMHUdwDvMv+YXe6hNuBW+oiV93yA3QH1MIYqb94DX/Uxv3fEwtRtXNwvu+L+G9uZCvToPUNozpsinJ6AQDtNglyjYs3tCkMVkArTZ38cmIbEE2xgIo+Z+/0jceQtwaHvC1t5H6S2IZaNEHmWG0gACgJYa97FSvVqs6duNovJrYbOVEysuejWVj9YOPC2RSpYMRyrd4RwEhGZdIx/wAI3v6RmV2XCG8mx9JhyU1mueJRwKU1efA2iypUbkkSKSGBrablDNhcYwbHvMxw5MZAGQlj2Bj+tUpjQKa2o1MbYSgtjZMOiFBIq4lSRkJ7xzaHBYEgASdMVTC+RhdGueYLB8zB8npB4vxNidJr6VShKt79xCx9IuLIjO5J1DjYXOjJJB8y5i60eon/AKwfsv5cv9QmrICduJz866Tsb95m35hCMxgtmxr2u5ufGpBiWxALuT+sJMQAC9uTH+lV2Aim0tdqIgtpddAqjwJ0VNi4QgsVIomUGoi+/AhhgeIBOkk8mJy2+xNDxK1aWllqMsNtLD70ZA1fQyFzVRbOYssTtFhirhhtRm9jS2O4mbqR/pk2/hEwE0h9t5A7hDTlVPMT8Rr52+kJMgumE6WDMANhtGqw3egD5mXr2BZBErk04+bA7HtAZyxLMYOLH6iz8D+8h06HA4g4avURYXgdrm7pcJzZCz7gHe+58TcABvMb5xk6tAD6Qwqu5udGSSD3lzH13J/pi/ssnTl/qmxzOd1A9fMzwwamnpFDZ2bsq1+c2aVmfMFuUuVQTqIgnq8Z2Wz9RUnxlWydhVzLkylzstH6zdgzgYwWO8auQOuq9pWNlfIRRPvHZSq42ZuALmTH1mp9DD4bEd94xs25F8CJLknY2YBchh9JDkJNQlc1LD3zC1wdfvKLeYOqCKPE2K2rpCTyARKzrrxgL2Ew5F0oGH5wEamBHbePzoHYMAd+3aY8qVyIzpXptJPaaGyfEbdtCjv7xHUuzZASyOOAQYmj55h0WYCaCvCoD4ErqMQVVUVsu99zM+GizWaHjzOv0409OCeSLi+syfDxhByZh6ZtXUYxQ2Ydu07UkkSrWWHhjGAzF13zV/1g/ZfGX+oTW85+fbIe8QSIRojbabOjULh1HljcZkcDiZczXEEkjaHjwG1ZCSG5vtGdbQZOw9ovJhTZsYB25EA0PS1ncUJ0OnUaAxqyOOwmjHpLekj8oPU2U0gX3InO6UA/aA1cgn9Z0nwY33Io+ROd1Kjp81KxO1mI+JvqvepZcsQQRsN4Yt6IIsdpAWPpvcd75lEvjBViCD/aWVetRMrfIbH5yr00rd+N+IQTSdQYD6GN6XKS2RTwykgTX1GJn0MuQqF3od5jyKWDbbRI2xsfAj0yFsC1zUSw2JYgfWLTHeZQrqST4M0fCGv1AEjsfMXkxNyzJ9AIsLv6RUJCFcGiY/DlVVOQqb4UQerU/CDOPUQfyiujQvlrbcTsGlQXsonNzHJlvIFam427R2HEcXwtgG1Cz5nQkkmMZAOpZeCSZoBmLrmXWd79MX9n5CoygKebuMfqMh4Sh7zK+Zidx+kDUrfxSrsgTooQMfgARDuPJichavEBeDvHdNmKrp7H+0Hqsq5CAt35MFMxCVKLBSByTNztoxKOB39ofQ/DLucbau1werz1rUHfz9Jj6JtXXKVBAJ/OdM4xiU0zAE2bNzH9oj98DX8MTgx2pcgVM2QDVXAJkAbSQCYQZzQuUMrKxNAn3hDIKpga9jGqcbkEen2hfCVdzdVvcFVJFrsL7wVJGddINgzrYMq5sIYeKP1iOoFA0JhW7IPEcx0YjWzXz4EDFgfqCSNl/mM19N0qYyWFsfJl5UV2fGdmG6t4mBiVcq6mxzBLEnfjtLX5wK/OaOmQPlDEbDYQerdGAprbcGD9ntjVnDkC1FGdEFXU6KYQdQqsZF/ymKXIg6hVumsWs3SSTk5XP3pzuArneX1PUZUIHC35gsNI33JW94PR58eL4mtqJO0acuNnBBsd4rLmxBjQETkZHX0jeTpTeQXDzNk9TLexr6QcZyZDp8bmDlys9gDjmUtgGxRqN6dyt6QSTBzlmf1Bb9jAF2LoStQGU999p18bK+MX4h9OgxhyODvOd1jKAQrBif7XB6E6eqxAijOhk1DINR43PgSusUOiOZkbKEXSo2mK9T3+k2dLjGVHWjdXFFSjkHtE7FgCO8PRuQOO0fhS+wPsYwqWNIQo73vFtasMZOx4IHEPChQu9FtIq7hfZ2XS7Yyfm3E1dQRpI2uc5m0mzxNGHEmXIuvcAcXzNeVlx4jWw4EPGNKKvgTN1w/e42GrcEbRLYjkX1E6h309ok41RltgSRd9hLItqXvNTqcOHQp3Ow/9mYsvyr7WIHTX8TbxOnhpMQr1dzXaKy9RiVwDbX3HaKRMZ6nGyE3rB3PvOtJJOfmRQM1HckkzPlQZMSMLLnc/QRmerYf9BMK4w5Y+DNS9MU6d3bkiZ1xK3zE3DbHpQ7VF9P6cgmnKQ7UDUPGirhbSbNbmZAt3RkqgbO8vBsQbh5RjG4G8UBIVr1Dkdpu6Y2gPYiai1dPkN1ttOcoTScjAbbDv+cHpXP3hb2LNsZ0tOrZyTqsH8oJVm6RwTZG4+k5WViB7mDiBJIWuN9rm/obX4hALMFsDzA61CuQkiiRcyAlG1Lew3jVtgTvZPea8OIimHeEbLsV57iLWy2pn+XYAQSWIKjuT/iIP7nqVYHZam/NiTfKu7MNzcwst7GNxNpyKb2ubepBCCj9Y4b2YrOBpxseFcSOuhla/4qmPqUVX0r8314l4l2tuSP0hZEyO+sbitt+IjNidEUldr5uK6VXbLSqTt2m/DqVDa73uO8HI4yYSTjCm+43iOnB+8Jf84/zOxJJOV1GTQ+UWu7EbcyumyUjKxAXgX5g9Qo1MdRHpB2PMDox63Nb2BNnUkfd2ph7zDibi+0LOxYV39opl+Hp338Sa745MMZSmLTsb7jmLBI/+S7H6w1RsYXIF1DnTLtM2plsFRZBESGZzWNd49cDAjFfrY258ATQFOFyg3UCwYzO/+kv3nODE41XcsW4hghsgKiihFe86+RWCF13IFgSKgGNr21DicHKSXJP5S8SnY0xuwNPNzofZpIyjVsSCI77Qx6k1dxOSQTfqrgV5jcVhqu96udLH6VrxAB02FsAm9+aiDQcaT2NntE5X03uR4qLUfFYfNRUmuaqb+ncZOkU8kbGZX2YmQG/pNvUH92grtNIJ4O0DqP8AwOB2FxWfKox1ySbWZlByPXJO5Me21Aiz2WU2VrC0QPKiJ6liUHzc94P2crfEOSjpUEbd5sUpk+c8natqmXMwRiBbIb57QcDA5sRB/jE7Ekk4fVIPvOU2PmMW2koqqbI5+sdluiGG4USdE1O4rmTqNBc0SPIrmKxmtuLlZWIo33iy2prJuXW48Qil2QAPzg1Q4lpZNngR2PK6qRdqRVQunGjNqJ9JBBgJjbURuPcTT0rDJ1bggg6aF8zcqBsYVhuBUw9dWNceHevbmIzsVcMwGoc+8BQ6psaH03nY6fIcvTKx5reTqnGPpXJNemp567jwHxJjdCNhq27fWaejf/UDcbG9u839SNWFxOIa17qSARHYqr0qQL7zoYmBUSNibIpI2HnufaIOPJvoxWB/eZ3RgQrYySTY+sPHZcIm4A9RB5rsPaX0mN8eNWJ9D/2kzY2GXnaJ7EXN968A9VUJpHa/EjUUYNxW85xuwCe1R3TEFnbwQIS5BqI57CA/xGa1IH9oh8XUOQDpIJ8xrZPglFwnZefeEcgvUhsgXUXmGQ5WUL6CdSnzcT0rX1mMEWA1TuSSTz/Ugnq8wAs6z/mHjwFaJ5P9ozK+vEDW4Wj+RgdKxBcDkkAQ8quGIL8RZYAD2iX9X5wKoyAwlJax4lg3vCVSSRW0bpIW/wCEdztDTG7gfDBI8nYRr9Kxwt6yWG4A2EDBSnHnDVXpYTpqdt/1mDqgr5g7OGCn5O5mPQPibgADsZS6hYL0O286vRqcWBlP1mP7U6rW/wAFdgvze5nPFbX5nQZsT0qkG1oaRt//ALF4m3S9Q2oGu8N+pyMrYjQB3sSYsCk62sBhde9xekqq8gsSTfYdpq6TUW9VaQLJmw5goGpfT22i26jAX2LBvYS3BoHXt7iJ0037sISbBNcbRfSspRsBPDWI3qQobQK1Ace0xFaaPxspxsCa22mj7xhAU/EUbcXKfNjzKUxtfkiZT7d/7RnRiwxvhuPyicORdA1Ej3hFbsh9I/Uw8alEZi5JYek1wIhvUjOU3HcRuIaOnyZAeRQuZPiM1LqJPA9hGdOAvU4gB/GCf1ndkknGc11eWq+c3GgW1Eb3tE5FKNkB82IfQYRkXKbpgRRlZ+nyqdRph5EzOKHvK7/SQrY3gDGStiHjUi+xhqp+GzAbDmNxqXfQgDNVkk7CasfSqCGyHWw88D6COJHAG8ngVv3nPrSvUYx2NiN6Gmzr6n1AXROxnSVQNyqg96EzdWzkUhA+ohYUUFfSur6RzKQWJa9QoKeJweqFZ39WrfmAqliFFed5q6UouC7Ns9V4gBVDsALIOwHYTfixpm6a2QagKuCW/dj4YKkHQdu8xuSruNWpiauv7zd9nj905J1EtRmhgWRfaJbCCykCmB5mtlDAgiweZz8g+7uQz1yR5Myi0ys17+0LrM2shwd6ilf4mM2fVH9OFNK4DWK3lvkwAbBL7xgdDjYpQHG3eILXxx2jelFAudxqqpjGXRqXfYxnxUyLTklj42mvNkOLEqqjBAoFxPTr+6Y6vSTusvqKx9HXk7TN0ygK7twNofTerqcZN/OP8zuySTklC/V5RW2o/wCZox4SGBJ/KZ+sHqHuD/mH9lf8o9xNGe9YRf5SZlyoNBY7mrmRbse8tvTxvLxNpPF2P7yn2YjvKGTSCp+VgQY7C5TPgc7Bl0mdEgEXd1M2TIWJCE7bfWMx4vhnVkY/SYMn/Ow2tqmzoyNeLjZBN+R9CFquu3mZcjHIoYqVv+EwcOXTl0lfT/NGnKuW2WiqcziZW15GYcEylJU/lNXSpkOPUGpLNDz5iwofK6qLFfM22mbOiy3+6/mGxE3/AAwCfAFCZsuPSeAwMbgGPEdC9zvHeQBtAQCwY2c/q2vOfbaZjWN7r0sKMR1C/DAX32ieLImrAwOnULF7ibSuLWGRVpTZFTOx2ZiBFHURvHdJZRq/mmKyXII2BmnGpLqQoJTmhGdTnBYBXv6SsWLHlTUy01VYPMDr/Tixp4ir04VQcncw+m26vGK/iE7kkk5OYN94dkOn1Hk7TXiJGIEkHbzcy9VRrf8AhJ/vGfZXy5fqJozHQ6P4On9Zn6qhi1Dg7TEF0i74gIfUCeODUdhF5rJrkj6RLWdXgQe2+8LX+5Ckbq1rOh1ObQmlTuRvXaB0ZIx6m3ANe8WOpyvlatwuw9hM5bUMlsPUbMdhcq6aWUVQ3jutbVSqzGrP5iW7nJ0eJ97qjv4mNgSDbGWmb4WB0Asud/pM0f0uD4+SiaA3M05sq48VKARwCNhXtM+NDjBcsavS30j+jJfqlpmBN0a2m9myoSFbWfcReW3Cs/pb+W9hMvUZWRLQ72DOphyDLiVx/ELkUU1eJZIAsmhOcx15GbybicnqOwsCB1dH4I71vM6gkMNVXcvAzA7fKDvOjldGxjStFvPiZ3IGL35MpXsDa43p9g7cU3Ex41skni5txEpRIpm3iXyD4hbv5mjCSVcjTZN7cTP15LOv04iOTzG9NX3nGf8AuP8AM7skk5IJPUZwyBlDnntvNepfh6QAK7eJl6g7JXBx/wDuH9lkBc17bia8hV102DuJi6ph8NBfFzM3yARZRRRuxW8Ylhwx5ZSBB+V2XyIOkkahue4kAuiNxCyOTR8Cpr6WhiHp3vffmYyabJXkxMLGNWRR7zRmYhhrB+U3HdGRm6VsI+ZTcQ6EPuartFZOBFTT0rZUx5Di02KJvmvaPx4g2MWoOoEv2PtUz53LMHAG1Bh22jEyH4q5NwSdQFbToPlJKsrhQfm8xWQBnpGsHkxLjW7AD0qKjegfIupAtoDtNwdS3g+DE5GBytqNATDl6lFJ33J7QPikr6FAHkxDb5gdV97ggak5AoeIfRqr5CrEja6jjdaSfaBlIo0ee0AMVCjaaemN2e+qZsS3kI95scLkQhhRI1D2My0bIbc+YxMmhqFbxfVPr6lm7RY3I943ph/qcXs4/wAzuySTnaB98y71Zv8AMQqW7AuzuT3mbqtsnAHp7S+g/wCUeajyi2bA2P6xR02fRqqJtHetJJEBxqJA+USzsQ3NGVl3GsbVLUlcikEKHXkxZtXJFflxLDBrB5M3dNuFoi64Mwd3+pipakq1g0RwRDORmFFiRLwu6ZVOO9V8eY7qywzn0lQR3FRBWwTewipq6bGDjDEA7mgTz9JoZMJxI+MPudrPaIZhurd9osCq1Ekjbc8R+LKHpWfSRtZ4m5sIXATi9bcAxDlcenCpBIBLVNXTJoxoO9WYH2gdOAHvfM5mYPq9TE/UxLDaaCfQomc+ljXYSjt22h4W051PnaaG9J27CJysNvMoeqpq6Rgur6iB0w9WU7Xe367w8zkfSv0iQdQsQlxlqG2/JriR+nb4hUZMbH61Bbpsqg6lNL43k6Zr6jEK/jH+Z3ZJJg6glWLVwxglyFB0gb1QiOoOtgy8aIPREhnUFgSQdhGk5BkOMvq94OvmiBXeLfJtfcSlACb8yiAtG95RQUSSbiWawoB2XaMYgnZiwHcwdg1XzNXQm8tHkbzIf49+5i5Jcbh+exyBcb1jMwUE2N6MmHHiKKzP6y1FR2Ez5UCsQCCLqxNXTqxGIIa2oknjftNPVjGECACwPNTEyaRXK3d9wfEmVSW0+nzxvKZSxIqyTx+UjNlxqEVmWzxNHSYAvTPmfknSJ1FG8R9orq6U+xnOygnFieuRX6TO6kg+0ZZ9N8RR9TH6wTvsD34kU04rsZpLMdQ7naIfmhCS9pp6XfVte4isjfDIZQb1E+1Qi3xNz47RakKT4jlzvjRtBFERWPVlygJs5P5R4HUYXb06j3INw+lQZcqudiGBoD37zqySTF1ILa1+tRRUld+wsRDlj8TUDYWoPSM2t0SrbfeMOP4ZO5J7mKNlgSu3AAgtuxrgQwhJ7xeYaQQaO8L0XTE2YISr8wdHNV9JHA10pvYfrGdPk+HlDEbcGI5DfUwJJcbgZUcl7qjxGdS65WZlIqtgO0QGKGwaNVBY39Z0ul/d/CRgNbC1HZfcxFPkcjK6jcgkiCm4Iu+xEVkfVm2J222hqQi2SQdVMO4jMuUZuoRgPTdCdArp6FVmpeBF9Surp3HtOXjX4nTMO6+oRKj1b9xKU+m/Ail7frL2LWOw5gb8zVvoHnmIyG3940X8MUeeY3p2rUO+28HqTqxKuxIJ3iMTlDUYtMxvvBcmgv6wsCn4igGiTz4mzNlydOdwHxn+KofTH1hkYFWIvzOhJJMWVW+I1eTcpXBxgg9pnyYsmd2IWtqu+ZWDFlwZGYoG7XfEY2QZACD9RFM7oGJSveDjS1qNU0szi2Fne4JFN7GUdQH04ln5r7yVoIbt3gBlLMOxlVSmLklyQgYLSp0+lQnCzK/rUhvXtRkIV2yPlVdjsL2gHDoxPmDek7DarP8A8mM0oFLuDub5j8T6izNpBrvJkP7zGwKkA/wzpZf9ov6zSnyD6SOLUjyJyejbTnKHyVMDInw8+nt2mdti4ggbf2kQbkGz9O8p9hWmpoVg2P8AITO+7Ex//ED4lYSdR33raOyohxBqpq58zKR3hob3J2EHlrPeWuzi7q+06LEnEThIda4Y7iJ6HIof4bCmLAgzrSSTJkss4HFzAzfD6jRVA+r6x6t1GTcLpX3M0BKQ771uZzH9GYlQNjcNyHUEAjUdxe3vGLXc9pMjBcYK8k77cCJIKMQGsXdygToPntIMTMmrc+KggEGibHmW/iAEFcyr2MCpJJJdyjKHvOx06a0p31AihW1CVkxBcWo02n5A0zPmOQhGNhea4/KIzFW3UUD+dwcRtSBXaaPg/vFW964nSzjTiC12j0+QfSX2nGyAp1hrbe4fXbZFaZc/z35EV23v8pBpUeon6QrSrRjfgiMwtWMjmolvmjO3NwsPzmvBjUdihU7gixtMrWbEsWux7iQCh7wub9pZGndSR9IfTJq6nGQ2wcHf6zuySTM5AyH6mYuo9OfBkoE7iafWwtqX2MokNag3Q3M5zD941G94aAb78bCHjPO+wkdWRTYr2uZw+3y7RinaxwYeLP8ADGwY/SKyN8UjTe/fxLN3ANb77mBVAwRJJJLUWR7yZFKMVOxBlKLYAmrM6uRkxFs2NLAXdh/moGUsSWdmVwoJA4mTJpVtiWHiAtUdRq5AmhmQ78VRjenNZ8Wx+YA2budXqRt+sam2NfoIQ4nL6wV1ViX1nqxBvIEyZvkUxIJ0la52k0gyyNpEbTqHmCTccRSr7iTESMgO9RrZHK0LN8GJKnUQeYO+vnjaGxA2AkApfrAOzEDepp6EXn2+b0/5FztSSTJk2Zz/ANpl6o3oZdqcc9oxseQ3ryKAfEDLkVU032raY70iGgsVGooQrY2uN6sgkBSKImH5QF071CVaTx3qUxINjbtCDbAVYMEkk0B/eRgdiaEBromBJJJCQ6XVvBuF1VfHyUSQTYJgYv8AypYJF8CbGOTIrZ3SgRaitjISXBd8bqSKJqwRElArUCz6faWqArk1HcKSYGvUhJ5CVD6cW+InnWJ0+oyKSRfaaEP7pPoIQ4nN6wfvrkzLq6RSe0xvvg+kRySN5BzwT9IxlphYu+wMA0H+WpR+aPC+lblKSGJXmoxPipjIr0kd5mVmD3cMEb33lg3W3tDZjQ01RgcksCADtG9G3w+rQgg6iFM7kkkwZXBdwGFgmK6lL6Rt9wAZkQ5GwltZ9MW2Rg25uEH1xq+w4jy2nILPHJ8SdQBjOy7TIXAJI5lBibuQCgVIsne4aKL2PEF19W43k1XYluLx14Ezy5JJBzIx1EnzGdKofqEBbSL58TXldiGbIwsAADgCZmy5A5ZAUvlQbh/FdserIz+riu8A2BsNKk9+8GwWbsCI7DS5sa3sGBJ8bTXkJDKf4SKu5qxm+mQg3tDRiyXtOf1jkZPVX5SHIrdIw1DYzGWBxEX3iLlqttVge5jlQBgCbUc149oOcoXJWxvwYs8zRd4gb3hdKPU58LG5wmhtOSyO0y5VVGIG91KFAi+YQAZjZoeZSmlZQfb6yv8A3GdOP9RiI/nH+Z3pJJx8qnJ1jqoPzGO6gH7s45AWoDdNkC0pFFRsfMyv02RWtlse0HGhU1+cet3R2hs50UnzFqO3EFwGUBXJ0jc+Zlc+phQO/MEmxvCG+1w3NMAP7Q9OpNV8RdW4veXZ4MSwppUuSSQwRzHgnKjHI5JXgEzQqNgxHLjyKexHkRKJkzNSkAD1HwPeSw4Db6b4JgHSrsF9Vbb94zDYIBSjffvNjZAuLF4WrhtnOPpsZAABqV03Ulgw2CAzN1r69DLwwsxeM0jqTudgK5mduZXY+YSsAB/eWr0TsStdoGRyx5Ne8h7Rqf8AjmroV9b9jUZnwqSztjJY91mDIby8V7SVv9JYqjYJuCAFJ8wnO+4ojxGdMf8AU4v6x/md2SSYSQudyBVtF5QdGTewRt7QWzM2NCDyBFHqCNmUiCAdRbzLvce8vWjMTurDgjvKGhsbAcjgzK96pXeXY1e0PUxQbgXxGqvppj+kXp21eZRimu9XaSSSSGqNp+JXpU0TAI3uH0+gZhrFjxHro0k6fhpuA1XftKyAgqG2Uiil0fziVAAPqPG0mK1ycXYjFYqw0Lsdx3huGGFhyBQEPqiCmHUW0sBsO0BQVxuh5Dc/lFOxbGv/AF2MoGiD7y2HqYD6xX8XELRqak9X+ZLZG+UCu0A8yz48Rg/8YmvpcYfCd6Ynb2hZcmXEp1WxHeYgCWutzC+vMpgdIriSjVEcwWHYiiIzpdupxD/uJ35JJhfbI5PIYxbmrPNmZQHVmQfw8CWzuF9S1BUbRiCiT4EgZVBuBiRlVmoEEbXM7CiYMLa4QoAWdzLUlibJ0iMaitn8omtTVG9SoCKODxEBRXO8o0DJtLAX2lEmqvbxIWupR5m7GAhbHkUsV2CHge4Mz5HOTKF17nYk9oDFsblQQdJqxIh1OdXfmoxQEZShN33j+rsYztV/+oeYBsGMqwrSFLHtMysSSBttxFn5GA45kJ9P6GEWqx5EUOTchqtjvcjChWq5RkjFvQB5mlPiY8ON1oad7g5+qbMmkgCI3rYwgbsngS2sKBQr6yru7J+niRxqpvaF0v8AusX9Y/zO/JJOfm+IMmS12JNH2iiSwoERGXG3x/mokXAcmwpN1vDXzCclUFDnmEq42UNRlBwWPniZH+YmUJcptzXeNAoc7QWehLxrRDaqMvN/4k478RA4lldpVSdpDCx42yE6RdbmCZt0Pk6bJlRiFblfpM+J0U266udoWR1AFKvqAO3b2isdnIK2MaQ60SSd73jOpzLlGkKVq+ZpzY0ODGrXp0iiszMoFEg6nBIo7TPyG9hK30iu8Lc78bQO+8mxG3PeHq9GmlN963EX2lCOVqUbcTSx0Y1UA2w28VMz/MfaUNpY7rLCmgNjfEogg+CJD8oB2jOm9XVYq/mE70kk5nVZj8Zsan1Xv7RRBSgN4rqL0pRPNXBRQxjUF7dhLykMtMbJ+VfEmDGBdD6ymKohoC72MyvsSPBlSHjaWg5N2e0In9IG5NkfSNRSwqDp9A9oA3Y3DI9MojYQG7SjNn2cCNRtaYha5MX1jrSY1x6dG1+ZMD6cXyX6qvtcj4U0jfQ3fVE/Dar7D+0iimG8PIx2u+fM35umXJhXKpo1+sz5crhMaNtpAoe0WnrdUZS1WKBr84qwpYXKX257Saj9NpFO/a/eRuboCt6kyAq3FA7iCODK7xibkDyZr6hhq5sgUB5mYi1vvJtI4Crtt7wxjJW+B5vvKv0m9zLxAFLyD09q5aaOmRvjpWnGLHpXk/UzrySTn501ZGrY6ri7BJJG/J+sR1R2C1uZSlRVdoaU3y8y8mJk4O3ciCdtrNQeqU/EsDbxFZEOkGt4ut6Mm9CEOJTGUDHYiTW+0Jh6REsKYQmWlEojiLbmU0PC5xsHBI+kvPkOR9RO/eLDEbdj2j9dqumyoFbjiBqKtY0tcpbLjV5kPyH+qdXo219HXtUy/aCEZBv/AAjbxEZgFyVwRvzEkCUexEsLZqRRvZ4ldzLa9gTdCUvcSozFd7c3GZiBlPmt5QIA+sptqMnzKRxIA96b28TRgwB23+UC2bxNGMKr/EK2TwP5RDwIWyB7AAab5JJgZicz+zGA9A6vA3mTScjlmMvIoGwhIdBsCa/jCqIqZ306jW17iRXGVrI4NH3iMrgmu0BloDiAzUdpcA7yo7CwQixftHuyOoOnT73MrD1WLjNRdFHvCVPiOAO5iHFZCBfO1wTL/hEoy1xsQGIOm+ZoJDkKpCY+BfEB2QMWxg42B23uLUG78Q8gAQUD732mz7Oy6UKnzJ1pZsi2D6dhM7sp6k5CtrfBERW5v8pYW1G3EICnArmCBTMGNAXKd/iPqIrttA7yxsZCIeBgr2e28IEsSe5lni5Bsa5kFgjYbyy7NQRd7qbWxnGmPAu7N6nMH1DJxvfBjVemxWBZcBanQkkmDL6crHbcmZOoYtSja+YK0BIDqbY/rC0sdva4bbABu/eLcHJpCbgjc+IeN1XFSjvzFDGDTEbxWRqPG0XzLlbHtINtzCTd41loAWYt7Gw4gqe3iPwZBj1OTuFNfWAmRs3VoznexW3EVkbU7GgLN0JP4RIiM7BVFk8TTkIC48aahYBJqKyKLYKbA3vzA2AG3PeEm7iz9ahZQqrtvtGdG3rIrtOgyh1Bq5nyYwUIqj2Mx7A8Rq0VYV7xbkal+sNcPxcrhVs3+VRGUBXKj8/rKxhDuxNyMBr2494J4kU7xoB3ruJRGkbnYQ01c7bwXHBUzZ9nYdWZstUi/wBzD1tkzO44vaMykc3bHYS+kX4ub4pNqnoX69zN0kk5x26jKDsLJu5jZjkZsn83+JOF9zLWg9H9Y8v8NKNfnFai1A3V9ovQ2Ngof5uQIWsKwCgUDUtsl7EfSZ8hs125uAZfbaURtIByDGYdnHjvNB00bFfnM7qL2O5gUQ0jSkYpkVh2NwTzH4EXIwV7Cn+IdptTEMSnGGBfG2pHuLylci6qtwQoruBzM2bE4YDTvXaQY3IJOIELybg0BkHi+PEjKApIbV2ELpjpyD3nSxtaEXuIOQ6lJ7zDkWj9ZaGiD+UHMKo+DDyKfiNWrizpmfKwZtkC+wlKav3lA7y2gjmaE3ptqgvdX2b2kHkH6iEdwV5F1+c6y4x0/R6R2Xf6zHj+J8IEC78wGyGzyNAv8+06PSY/hdPjU81Z+s0SSTl9cwDFLssxN+BEqoII4BlBBrO4ocfSWSNwWVQRcpHX4XqKlu4MpmBQFW3P9parpGocnvFsAHH1guTqFccSMpqm2A4rvFkbyzsIPvLhJztHrudxvBZW7gD2iXGlh4lP2gjmQzaoxoF0iwBbtXEcmXHlKlwNAv06YITHmX42IBFH8INX+czZabceYFNTEHb3PMrlwfGxuR2sHZR9JWNqYTfib1XXMY452mV1skRYFCXlFoYxwASxNWo3B3HvMmRSOYEkvkSozEdtMNiQ1gkAdoKMFvagZs+z8QyZi5Gy7/nNvXsV6Vq77TGuTThVQLqBjX4nVKOxff6CdcciFJJOLmAPV5Tx6jIAdJIgAqco9J9W5BhHSvy1RPiAyj6mTQBVDeM1+mq+kBqPHI5iwNbbA7dodGr53inFGATtJ22kEYhriOQ2LG35ynFG7oRT0RF3e8ocyEbzrBBitBWwBvz9YHRZLx5UoroBOscwGCLkJB1WL4rfsRM2Q2CAKJNwbKkjuPErcv8AU3cAiRTU2429Aj9WpYjIN7iX23kY3iMbkGpMRAu14iWxKVBOQ8cVxM5FSSwdpRlqaYGNZS3BuUrUdxOx9nIF6e+5O8r7TNdPXkzApteI/oE1dUSf4VJ/WdEbECHJJOL1FjqMlDcuZYJ07DtBwgDF8Rhd3QkZl+bRVeDB1Cgw4lEkLZ/SRCX3Ao+JTIwAF0fMq3RfQfc+8ME7njyKi8q1UUTvK4MkIdhGr6V8CGxtd7iHaxVQDLRS1kDYcyjzOg2XGzUjaPTZLd5a4jgxZlViCDe/daiwqsooBb3ABisgpAPc7xNkSFmZhZHMjcmUJqxN6aj8bbyZRM7bofaAD6TG6j8DERyDUAAL+8UjSCLBO5/KV1qhXWmsgTNLHEoyRuM2tQgD3I5udnpa+Dt5MzfajilWZq28/SbPs5ABkbk2BNg5hSSTjdQa6jJZ5c/5jA1XXEDVqdVvbe4t1Cbf/wAxYKhq7EX+cl2QSNozHszAcbSZAeb9qldt65rftIpLZN9+5g5NxZmftcsCWu+xhLQu+0sZaNE7RgooNFbxZWg2of8A5FGWjEHbvKPM2dcPhuF5OkdppzgfHUlgUyKL/SYixxE2DqqgT4kB9GhhxwYsECmqwOR7SyfUCVoEek96gN/7MocTRioER6ijDaisznkjzEjgiOXfo7PZjEkH4gJX8jBzEFub8mLlr3kMqHiPqrzGsaFdzOv0jAowHY/+pm6sLk6xVY0oFmB1GJVFqaJNVNfRrXTKe7WZoHaFJJOP1SE5crE0AxidWShuJT5dha0wNgiFR6jJoul5Jg5MYVwoLHUIsMRt7xysF9IPeR11Ebmu0WW0879o5fSobckmKymwaiQLX85Y2kQBn3O3eTZi3jtLQViZq3hXpKqDqXxCYUp3+oMQY3psau7FwSqrZo1GZ0VMp+UEb0DsJrVS9llXOD3vcj2ib04wp9advIin1Vzaj+YcQPVsFFsx2EFE0kX32I8GHWo6Rse57ARbAMGIHHe4Ij07R6m+0YJnybGJI0uD2M0YBfS5V94ldWQck0IvLj0BTTURyR39ouWNjIRKlqQKO93NBTWu03dE+l6O2tQR+UTmtury3wJMprCu9kmdDENGJF8KBGA7iHJJORlf9/lFfxERIrVV+0tVGqpeN/g5CGoqx/SOYh+KmLICW23F+IXqq9h+UL4jAjUQRIinJkutK8xjkjYCIyUR5ESL5EveXwNuZXB+okDVCWyQ3YRuS3HHqJqZzzNPSsBizLvqIHEFlRm2XTRAM2ZD8PNWMuqDhVWJcMxL0qk8g8n3qLcqpBDFj4IlINLM7OVyg7DyO8gU0T4G7HtE2WOhOP8AMK7RthxXEBY1TxH4zG3FZQSYlxeP3G8Z0TahkW/4bgqQBpCjVq+c9hL6prxgEeocEte3tMklm4RgyRqNYE09PkLkAfOh1L7iVrvNkIN6jde0P5nxqeCZ0b3hA+ofWNkknE6sFc+Qj+YxCIWF7mzvUYLx5SLuESPGxMEshNgkCuJCPTsK9zKCMRzLQ6PSV3PeMQ1fvxAY878RbkMBXaJsybybiQb9t4/CgJINE1cugRxtHYBipy6liosb8THlVVyFVNgd4zp1bS7g0AK459oWU2tqR2BrtH5Gy5FGLBpKItkg9/cxAXUU1O24NjuJNCqD6Td2GJ4HiEmm9TnSnnv+UHI7dQwTGunGOB/9lKqqaU2fMpN0cRI2MapjsR3jgZTRB2aV0Z0dWF82JeU6MjCiR4EQ2+8CSXckqHjO9eY3p9fxgcYth28iGcSHIw1EXupjenRz1eMZNwoJBHedLcRfx0GRVsEkgbTVJJOR1I/e5O/qMQpC6bYKRyJe5a7snk1BdSb0kGuYHej4qGhYgrdCUpY0N7kZHDLZJs8xh/sIJAZzvtAbmonfVtIbEl39ZafNvGoSWAGwhElXKk8eO8FslBqO5FRJmrFl0dEyLuzkwuoVFwdOo3/mA8zQvT1jDLQZqpVHaZ8p+EaYC+dzZgKzOKx4i58ntH4OgOW2zZBsd1B4h5xjxoceMBV4Mz40A7RSkAON4thWQwl2jsZ3jhxKY1FZBRi705sbe8dmPw8+ob78eZlPzGuIJG8qSXJK4M6P2aobNr71GdV0+piyD3K//JlBbG4JykaRVHYiXk6hCBTM3mzJgzX1WMKukFx/mdySScbO9dVkN7BjY/OLLYyTtz5lBiyMVFBe0W4ZKN8yBNQtjLVVqyfyhllrbn2hYmZls8rBJPPmEaXHRG/mJYEOwMU13Ksy1G8s7HaEG2pdvJjT2qJc2xMEzodIrDCoQAnIG7WB7RecgKVZT2ImjHh6jqAAD8HD4HeOxdDjx5ReMuK3Zj/6moaVWlAA9ok6QToUWeaExdWAgs8+0y66W4KkkNXHeDl2cS14jE5mgSFfMBwO0z5B6b8GP6xdg3kAzNWvJWqh5h9SmltmDjyIiSQS5Rmr7PzDFmomg206zCiL3i8vT4sp/eKCex7zI32el+ljDxdGqZ0IN0wM6kkk43VY1ObJR3LHeIRRt/MJPhn+FqvxxBdWG5NiGdtLDvtIy2xIYfQymZVAqtXtHAUkFRbm+BvBYUR/9iSbZmg97lgAS1FQa3hrvIpII2v28y84AyEhdIO+nxFTp9GzphVgVUBeL3b3iWDZ+qAGwZu4nZAoASm4iMzfCW9LN7LJ8REx6qo13nN6jPrY1xE5B6AfeCLFgHntJm/h+ki8Q1mhTtLMB+Ihx6W+kfn9XT428qJk7gwsmTW1A7HbeKkkl9pKlbzp9H1JyKVc2w4mlmOripC1rsN5aH1Jt3E1ySTkZyD1LgjcMTM7AjIGA3I4kGTsdj4llgwIPFxYD1W1doQG5J4hIAzjwu8tm3O+0NBpTccwM4KDSfmMTppa5i+0ly9XG0hbfiGnFQlbTlUnsRG9YinKzgHff63MxG11U1LiGnH8UtpK2pH8O8sNiTrcTYwwUNRs3Ow+or6WCnyRAzZkxj1GYOp6wHZIgDNlHejAOBk5gv8A+NfrAJ9Y+kvLuggqdoYNRyG4Z2lPxEMbVo5jq6PHfiZCPT+dQQN/pKMkglg3LkX5pA5VgV2IN3OrizLlxq457iXr5I58RmJtTi/ImySScfOP9Rk231EQDupIPA5i2RWojtJZC3W13UJfVjYkVUUXJJGmNA0qo7neCotq4lMHU2pO0KiSXY6ie8BjFHY+8qUJe8NVNxgyBGvQGNVvLd8hy6TsQoFH2gElmGxNm6mtM/TnCq5Rk2HYRPxjkYJixDdgdh4m/r2y6RpbSO859M53a68zRh6UM1s0348aqtCI6hQAZz82yiJbZhXiWVOjneCphWfaOxvQO4vxGl7QDR6vNxbvtx9Io1RBG57x2Nx8AKyEgDkGZTyw/OCJUkkkKUdpRj+ky6MlE7NN4F1vGY6GVRfcTdJJOTmb99k2HzneKA33N/SDp2vgd4LGhtZlWSdzQ8SgNThRxdmNcgtYlJS3feWNN739BFs9muFlMByIpuTKl9pFG8ZcutTL+sp9WTOauyaFwirpRUENuK952sONPu6DSvyjtLx4/hY6NEjuBUR1ajLjIM5mmtrlg5U4Yxg6nMg+baUepY/NF5W1FAvbeKettqNwiPRueYteahhRCFA3GZCx9RNmquVr1bsdwKibGvzNGHQembf1auPaZn2eCOTKkkklg9pZ3EEyTdizFsYoGxzGYWyPnxltgGGwnWkknFzmuqyXxrNQb+n1EjPsATtzxB1G9NbmBponcGto3Co0n9BKZtPPAilNgv3H95S27c8xz4tCjzEkc2YB5lHYy5IQ9+IYYLjYk+rgL/7l9NlKE2CQY/NlTIuzDUN+J1OndWwpRF6QahtWkzNqTJjsqRvweZjzKGalNe8WwUAAsDXJgu+NlrRZ8xZNqa7QXXQuNq3YeblOTpHi41AD0xbvdARC7GEh9XMZgF5NzQ81cc4VcjAHVXB7GLzMWOwBUb1UTtq428Qkf0soGxPEXk5lAypYAomxt2lSSSwZDKjcGQqSv803dGLyrfYgzqySTh9YdXUZFvhjFlSE1A3BS2YXvGHTr1E8Sjp3YHc8iHwoH5wMu6/WAzn4YXTQ7+8LBaDVQ8CMa+SbuJJoH3ir3k2MlyQlb2jguMfDZ7a/mEPGDjxu1CiLCnmpS5lZQmYEWOeCY9eqGLGFxCyPTqr+0A9dl9QsA97EW2d25cRZZz3NSYEL5NPmbupwKmMVQ2nPB+YHxCzKFxYeLK9otvkoTZgCnoiAQSeQRxMJ+baHjUs1KCT4EfjD4SXrSe1yxdWtWf7SMAARpJsee8zGw0LGAS29VvAycyl3BHmURUgkkkkEuUZJv6PMGfGL9WoAj852ZJJxeqX/AFeQnuTAW1Qk/pJjZW+UUe8pwoO455gjHVE+eIwtaChvAyWx4uv7QVBJPvCIC0BITY38xZi+8riXcktdzU1q4VSijS5FMrcGWyqK+MHAI2K73AvVkDVdLpHtHYVV+l0MwU6rNDeLy9LkJLUaJu22mZ1CmtQJ9pSuV4ubvssa87FhwNps6yvhk+Jy6GhjKznfH9IDAEsB4uasJCdLoYDcijXmY8i6crDwYeGrJIBoE7wzpA3qwL+sMdQVUFcagsNqEW/U5HoE0O0UbJN9oWIEFyCRQ3qVmUgAmvyixLbfeVJJJJUsGUZI3pP93h/rH+Z6OSScjqHHxsgIGzHeIsA+rcd4OOgWK8E7SmBPe4Q+S9pabX/YS73I89oBYASkOpfEI+L5i2O8CvVK5Mn1lRmEBsqg9yJ283R4stFh6vMw5uizYj+5bWL4viJbIysfjYRZ9qjcL9Qylemx0pPzVvAXpM+fKys/qHzWeI/9lKq2zkn2EW/SDG3pojweZQLYjqXYiG3VF8JV138zNqBxkQeoBDqCKNCU3J/pmkG+kU80y/4mTIbyM3ky8f8A6lpTY3JO4EtqGgLdb88wXFFfpBrdpaGmb3EvKbrzUVcly6viUQRJJIKkkkjek/3eH+sf5no5JJxuqI+8ZAPJv9ZlUn4gB39vMMMSbIA9hLsAbmpR2AX8zLCswOk7iVoYMSRZgswB0kfUyih3Cm/aXRFB4Le8iKGVj47SBfAlfDYmX8MxmHGFyKTdA2aE74NgEcGUMahiwUAnk+ZWTGjimUH6yYkXGgVBQlqoViQACeT5g5LraI+GWBJNTHmUYyNRFHiA4UY6EynaxW3mOzjVkx2eUH+Io/Nt2EdjY/BQX/F3iMnJkxGn/KWlgN9JZsspO5Mjcr9JRHoY33gqCW28SPwIBkHMnBmpMiFCQQr6dJBHP0mZhRIlSSSSRvSf7vD/AFj/ADPRySTi9UQOpyE7eozODTayDvxCu+AaMtl9S3v5lHdr8whYUgDY8wmZlILfoIq1L/LdnaUwfV4MmliedxD+H5EsYx4qFpqVW8MDbxCxj1Cu06ePJaAwmyKpFnk0IXMoGibIqUcqjuJlz9QBkBGSgBwO8U/WqBtMmXqfidvpEl2IgGzzCVwCNYupDsa9hGA3jQXw1Qcy1lK33lYtj+UvGL+lbmWbBTtzUDsDzLPyNBDUwkb6QZUhl1tcn1kIlSSSRvSf7vD/AFj/ADPRySTj9WdWdxXDGZyoYb3K1UT28VCUlvU3fYCXtRFSsefSDag+IT5NVlQLIi1uyLqhz4loEahRtTZJMa25MgHmFXipNJO1ytO/O8JcTOfTz38TQuAqLb1EdlPMfa/CDEUvcd5hyZyT6bHcQsX2g6mnGoeRGPn+8EaMgQdweZmdHV6LWJRUnvcr4YPMidOuRlBNX3j2+zHA9LA/WY8uB8ZphE0ZDYN3CGQ1Xa7l5HDPY4lK+niRMjLYX+IUdpeqiLPHmQnbmCzGqg3vC1WZCvcQZY32HMKiBvsRB4lSSSVJHdLX3rD/AFj/ADPRSSTk9Qp+PkI3OozOVI735gOpBAjLpRXaCN7vjmASHHgDiSzW0iFdZBBIMdiw09nZTB+IVyEc3CGQ3xGIzN8qXDGLKwsIYePpjQZ9ge00BQMHau4HeKxZl0/DGwO1eIps6+oKbUzJlf1WsFQNW9iEg9REau5h9pVV7wsW2QE8XOkaC2OJz+tomYWgNUCSWFJOwmnDhZPUy87CA4tj6ZWkHHquot+1QZI3EwOxlvi5I7c0OJFUKoZcm5G8UfaVJDx6d9Q+hEEgCMx9PlyfIhPvNKfZmZt2KrNGD7NXFlR2yWQQROlJJOTnYLnyGz8xifiIONzBZwTYEHcg1ICaIrmQoNNVKFgVVwiWNe3Eg1DvtIP/ACmNRgmQMRag7ib16rERalag/fUF/wCBM+brC1qNpnydUzgX2FQPikNqHNVzB1knmULuPR1BqvrFg1koee0cLEln2k1G+0mrbtNeHqgECv2i+oxg+rG3p8Tms2/MCSPw4HykaVNeTOjg6XHgsEh2A3lMFKHUNO/A3mPI1ErVD3O5iTdH3jB0z5E9IgHpcuoLp3PEn3XNRJXg1zGY8WPHhbI9tkDVV8Suoy6/Sva965mcktKMkJULNSjUfAmzB9nZclF/3a/3mzH0XT4tz6j5MP42HAmldgJEzs4uiB2J2hD4mtfTYsTTJJOP1C/v8h/7GDpA7QaJ7Swly9EEi4NN5l01bHeVRHMgH738owDmC2MNZiFVrO+whKqk+sn8oYxYSaGo+5ML7rjJoMZX3LfZ5D0jrw4P1gfCyXQW/pIMOUHZaMs4c3JYSvg5hvcoJm95NOYdrkBy+JR+IRuDA0exjem6b4+QqW0AC7M6GPosWNBpTW/k7x4UjkLtF62RjWmgauB8JXY5UcaTyL7zH1Ix6vSd+/8A9inUWNNmdrDiCYlFdpj+0NWJ8eVeFMyt1GrCcekc3cz36vSagnmh3ltpAoXfe4eHp8uc+hSR5m/F9liryv8AkJow4MXSgnVZ9+0rL1YUbceZhOfL1GX4eLueZt6foBiYNkb4je/AmyxK1gML7mockk5Oc/v8m38Rg37GTUL7/pCA5k27waFSisvbiCRAP/lMaNwPMIbgiBo5i8yUQex2hqo0iEFoXcmo3zLDy1ySBjC1LcuwfEnfapRJv5BBbmtO8oBidl27ywoLHsB3IkZSdlIHvCx58+FdNB/eF9+cc4T7xTdS5BAw+lu0TeTekIB7Sh0+RuSBDXCA6kl9v0nT+MoQG5k6nN8UaALHeIXoMpA9Sj/MaPswctk/QRi/ZvTjl2P5y/unSIdx+pjD1WHCulSNuwmbL9ogjY/pMb9VkcmLIZthZ+k0dJk+AxZhR+k1/fdXn9JT9aQPla/pF4+p+Nnxqw/jBH6zrySTj9Qf9Rk3/iMWWk1y/iWJQyeZesSB5A8ovFqf3xjxxcIN+sIGLy7ivzh41BEhFXXEAqBK8yDaSzLU94Q23l3Ru5euTXvKD78+0IH6SiZQbbiX9JNREmontBs9xJqllvTACVuhq5YD385hqcpv940BlyX8xsxRxP3YyvgqebMMYcdUUBljHiPCCWUG1Aj85NG2xMmg82YQFXzLwgHPjNcMP8zrSSRDdH07MWbECSbJk+5dN+Esn3Lp/wAJZPuXT/hLJ9y6b8JZPuXT/hLJ9y6f8JZPufT/AISyfc+n/CWT7n0938JbhfdsNV8MSfdcP4Yk+7YfwxJ92w/hiWOnxD+ASfd8VVoEr7th/kEn3XD+GJX3XB+GJPuuD8MSfdcH4Yl/dsP4Yk+7YfwxJ92w/hiT7rh/DEn3XD+GJPu2H8MSfdsP4Yk+7YfwxJ92w/yCT7th/kEv7vi/kEr7th/DEn3bD+GJPu2H8MSDpsI/gEv7vi/kEgwYxwgk+Bi/kEr7tiP8Ak+64fwxIelwnnGJQ6XCOMYl/dsP8gk+7Yf5BL+74v5BK+7Yv5BLHT4lIIQAiMkn/9k=\"></figure><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i>DAVID, J-L. A coroação de Napoleão (detalhe). Óleo sobre tela, 621 x 979 cm. Louvre, França, 1807. Disponível em: http://theweddingtiara.com. Acesso em: 8 abr. 2015.</i></p><p>O gesto representado no quadro simboliza uma diferença entre o império napoleônico e a monarquia absolutista, por<br>&nbsp;</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>reduzir a autoridade do clero.</p>",
+        "alternativa_b_txt": "<p>instaurar a censura da imprensa.</p>",
+        "alternativa_c_txt": "<p>controlar a organização judiciária.</p>",
+        "alternativa_d_txt": "<p>suspender as pensões da nobreza.</p>",
+        "alternativa_e_txt": "<p>desrespeitar a propriedade privada.</p>"
+      },
+      "alternativa_correta": "<p>A</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Física; Solo",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p><strong>Brasil: regiões com predisposição à erosão</strong></p><figure style=\"width:32.38%;\"><img src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAlgCWAAD/2wBDAGRFS1hLP2RYUVhxamR3lvqjloqKlv/b57X6////////////////////////////////////////////////////2wBDAWpxcZaDlv+jo///////////////////////////////////////////////////////////////////////////wAARCAJYAskDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAMxAAAgIBAwIGAQQCAQQDAQAAAAECEQMSITEEURMyM0FhcSIkUlORQoEUI6GxwUNi4fD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApmk44pNcouZ9R6MgMIy6iUU09mT+pNem9GJqBy/qR+pOoAcv6kfqTqAHL+pH6k6gBy/qR+pOoAcv6kfqTqIXLYHN+pH6k6gBy/qR+pOoAcv6kfqTqAHL+pH6k6gBy/qR+pOoiSA5v1I/UnSmmtiQOX9SP1J1ADl/Uh/8AJR1ENJ8gc36kfqTounSJt9gOb9SP1J0W29g3Je1gc/6kfqTpt9iHJLnYDn/Uj9SdQA5f1I/UnUAOX9SP1J1ADl/Uj9SdMeCQOX9SP1J1ADl/Uj9SdQA5f1I/UnUAOX9SP1J1ADl/Uj9SdQA5f1I/UnUAOX9SP1J1ADl/Uj9SdQA5f1I/UnUAOX9SP1J1ADl/Uj9SdQA5f1I/UnUAOX9SRKeeCuTpHWYdV6a+wN1wgQuESAAAAAAAAAAAAAAAAAAAAAAAAAM+o9GRoZ9R6MgI6b0Impl03oRNQAAAAAAAAAAAPghcEhcAAAAAAAGbzwUtN2y6aatASAAAIc4pW2jln1T1PTVAaZ8jxU4+46eTk227tHJOcpyuTL48zhXwB3gpjnrW5cARaJIXAEJbtlgAAAAPYrWrdky4JAjT2dEbrndFgABXy/RKdgSAAIjwSRHgkAAAAAAAAAAAAAAAAAAAAAAA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\"></figure><p><i>EMBRAPA; SPI. Terra viva: atlas do meio ambiente do Brasil. Brasília: Embrapa, 1996 (adaptado).</i></p><p>Com base no mapa, a área com maior suscetibilidade natural à ocorrência de erosão no Brasil é o(a)</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>interior da Região Norte.</p>",
+        "alternativa_b_txt": "<p>depressão do Pantanal.</p>",
+        "alternativa_c_txt": "<p>extremo oeste amazônico.</p>",
+        "alternativa_d_txt": "<p>faixa litorânea do Sudeste.</p>",
+        "alternativa_e_txt": "<p>região da Mata dos Cocais.</p>"
+      },
+      "alternativa_correta": "<p>D</p>"
+    },
+    {
+      "assunto": "História; História do Brasil; Era Vargas; Consolidação das Leis do Trabalho (CLT)",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p><blockquote><p>Mesmo com a instalação da quarta emissora no Rio de Janeiro, a Rádio Educadora, em janeiro de 1927, a música popular ainda não desfrutava desse meio de comunicação para se tornar mais conhecida. Renato Murce, um dos maiores radialistas de todos os tempos, registrou, no seu livro <i>Nos</i> <i>bastidores do rádio,</i> que as emissoras veiculavam apenas “um certo tipo de cultura, com uma programação quase só da chamada música erudita, conferências maçantes e palestras destituídas de interesse”. E acrescentou: “Nada de música popular. Em samba, então, nem era bom falar”.</p><p><i>CABRAL, S. A MPB na Era do Rádio. São Paulo: Moderna, 1996.</i></p></blockquote><p>A situação descrita no texto alterou-se durante o regime do Estado Novo, porque o meio de comunicação foi instrumentalizado para<br>&nbsp;</p><p><br>&nbsp;</p></p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>exportar as manifestações folclóricas nacionais.&nbsp;</p>",
+        "alternativa_b_txt": "<p>ampliar o alcance da propaganda político-ideológica.</p>",
+        "alternativa_c_txt": "<p>substituir as comemorações cívicas espontâneas.</p>",
+        "alternativa_d_txt": "<p>atender às demandas das elites oligárquicas.&nbsp;</p>",
+        "alternativa_e_txt": "<p>favorecer o espaço de mobilização social.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Ambiental; Conferências Ambientais",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Em 1991 foi criado no Tratado da Antártica o Protocolo de Madri, e a partir desse protocolo deixou-se de discutir como dividir a Antártica e passou-se a estudar maneiras de preservá-la, tornando-a uma reserva natural dedicada à paz e à ciência.</p><p>MACHADO, C. S.; BRITO, T. <strong>Coleção explorando o ensino</strong>: Antártica. Brasília: MEC, 2006 (adaptado).</p><p>Sobre a apropriação dos recursos existentes na área indicada, esse documento tem sido fundamental para instituir<br>&nbsp;</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>ações planejadas para caça de animais.</p>",
+        "alternativa_b_txt": "<p>impedimentos legais de exploração mineral.</p>",
+        "alternativa_c_txt": "<p>espaços exclusivos para atividades de extração.</p>",
+        "alternativa_d_txt": "<p>programas internacionais de créditos compensatórios.</p>",
+        "alternativa_e_txt": "<p>restrições políticas para a adesão de países periféricos.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "Filosofia; Filosofia Clássica; Política",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Os sofistas inventam a educação em ambiente artificial, o que se tornará uma das características de nossa civilização. Eles são os profissionais do ensino, antes de tudo pedagogos, ainda que seja necessário reconhecer a notável originalidade de um Protágoras, de um Górgias ou de um Antifonte, por exemplo. Por um salário, eles ensinavam a seus alunos receitas que lhes permitiam persuadir os ouvintes, defender, com a mesma habilidade, o pró e o contra, conforme o entendimento de cada um.</p><p><i>HADOT, P. O que é a filosofia antiga? São Paulo: Loyola, 2010 (adaptado).</i></p><p>O texto apresenta uma característica dos sofistas, mestres da oratória que defendiam a(o)</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>ideia do bem, demonstrado na mente com base na teoria da reminiscência.</p>",
+        "alternativa_b_txt": "<p>relativismo, evidenciado na convencionalidade das instituições políticas.</p>",
+        "alternativa_c_txt": "<p>ética, aprimorada pela educação de cada indivíduo com base na virtude.</p>",
+        "alternativa_d_txt": "<p>ciência, comprovada empiricamente por meio de conceitos universais.</p>",
+        "alternativa_e_txt": "<p>religião, revelada pelos mandamentos das leis divinas.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Política; Geopolítica; Questões Internacionais",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Ao mesmo tempo que as novas tecnologias inseridas no universo do trabalho estão provocando profundas transformações nos modos de produção, tornam cada vez mais plausível a possibilidade de liberação do homem do trabalho mecânico e repetitivo.<br><i>JORGE, M. T. S. Será o ensino escolar supérfluo no mundo das novas tecnologias? Educação e Sociedade, v. 19, n. 65, dez. 1998 (adaptado).</i></p><p>O paradoxo da relação entre as novas tecnologias e o mundo do trabalho, demonstrado no texto, pode ser exemplificado pelo(a)<br>&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>utilização das redes sociais como ferramenta de recrutamento e seleção.</p>",
+        "alternativa_b_txt": "<p>transferência de fábricas para locais onde estas desfrutem de benefícios fiscais.</p>",
+        "alternativa_c_txt": "<p>necessidade de trabalhadores flexíveis para se adequarem ao mercado de trabalho.</p>",
+        "alternativa_d_txt": "<p>fenômeno do desemprego que aflige milhões de pessoas no mundo contemporâneo.</p>",
+        "alternativa_e_txt": "<p>conflito entre trabalhadores e empresários por conta da exigência de qualificação profissional.</p>"
+      },
+      "alternativa_correta": "<p>D</p>"
+    },
+    {
+      "assunto": "História; História Geral; Idade Moderna; Renascimento",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p>&nbsp;Sempre que se evoca o tema do Renascimento, a imagem que imediatamente nos vem à mente é a dos grandes artistas plásticos e de suas obras mais famosas, amplamente reproduzidas e difundidas até os nossos dias, como a M<i>onalisa e a Última ceia</i>, de Leonardo da Vinci, o <i>Juízo final, a Pietá e o Moisés, </i>de Michelangelo, assim como as inúmeras e suaves <i>Madonas</i>, de Rafael, que permanecem ainda como modelo mais frequente de representação da mãe de Cristo. Como veremos, de fato, as artes plásticas acabaram se convertendo num centro de convergência de todas as principais tendências da cultura renascentista.</p><p><i>SEVCENKO, N. O Renascimento. Campinas: Atual, 1988 (adaptado).&nbsp;</i></p><p>Esse movimento cultural, inserido no processo de transição da modernidade europeia, caracterizou-se pela</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>validação da teoria geocêntrica.</p>",
+        "alternativa_b_txt": "<p>valorização da integração religiosa.</p>",
+        "alternativa_c_txt": "<p>afirmação dos princípios humanistas.</p>",
+        "alternativa_d_txt": "<p>legitimação das tradições aristocráticas.</p>",
+        "alternativa_e_txt": "<p>incorporação das representações góticas.</p>"
+      },
+      "alternativa_correta": "<p>C</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Política; Geopolítica; Questões Internacionais",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Na América do Sul, a principal orientação dos investimentos nas últimas décadas foi direcionada para aumentar a oferta de <i>commodities </i>agropecuárias e minerais no mercado mundial. Grande parte dessas <i>commodities</i> está sendo consumida na China e na Índia, que são países que apresentam um rápido crescimento urbano com uma substancial mudança da distribuição territorial de suas numerosas populações. Soja, minério de ferro, alumínio, petróleo e, mais recentemente, biocombustíveis integram a pauta de exportações das nações sulamericanas.</p><p><i>EGLER, C. G. Crise, mudanças globais e inserção da América do Sul na economia mundial. In: VIDEIRA, S. L.; COSTA, P. A.; FAJARDO, S. (Org.).Geografia econômica: (re)leituras contemporâneas. Rio de Janeiro: Letra Capital, 2011.</i></p><p>O principal risco econômico para os países da América do Sul dependentes da comercialização dos produtos mencionados no texto é o(a)<br>&nbsp;</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>surgimento de fontes energéticas renováveis.</p>",
+        "alternativa_b_txt": "<p>instabilidade do preço dos produtos primários.</p>",
+        "alternativa_c_txt": "<p>distância dos principais parceiros comerciais.</p>",
+        "alternativa_d_txt": "<p>concorrência de economias emergentes asiáticas.</p>",
+        "alternativa_e_txt": "<p>esgotamento das reservas de combustíveis fósseis.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "Sociologia; Política, poder e Estado; Direitos e Garantias",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>É certo que entramos na era das sociedades de “controle”. Elas já não são exatamente sociedades disciplinares, cuja técnica principal é o confinamento (não somente o hospital e a prisão, mas também a escola, a fábrica, o quartel). A sociedade de controle não funciona por confinamento, mas por controle contínuo e comunicação instantânea. É evidente que não deixamos de falar de prisão, de escola, de hospital: mas essas instituições estão em crise.</p><p><i>DELEUZE, G. Entrevista a Toni Negri. In: O devir revolucionário e as criações políticas. Novos Estudos Cebrap, n. 28, out. 1990 (adaptado).</i></p><p>No trecho, ao problematizar as sociedades contemporâneas, Gilles Deleuze está enfatizando a ausência de</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>legitimidade nas redes de informação.</p>",
+        "alternativa_b_txt": "<p>autonomia nas ações individuais.</p>",
+        "alternativa_c_txt": "<p>sanções no ordenamento jurídico.</p>",
+        "alternativa_d_txt": "<p>padrões na sociedade de consumo.</p>",
+        "alternativa_e_txt": "<p>inovações nos sistemas educacionais.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Física; Clima",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Os fundamentos da meteorologia tropical, como mostrou Richard Grove, foram estabelecidos durante o grande El Niño de 1790-91, que, além de levar a seca e a fome a Madras e Bengala, desmantelou a agricultura em várias colônias caribenhas da Inglaterra. Pela primeira vez, medições meteorológicas simultâneas, milhares de milhas distantes entre si, sugeriram que aquelas condições de tempo extremo talvez estivessem associadas em todos os trópicos — uma ideia que só seria completamente desenvolvida durante a seca global de 1876-78.</p><p>DAVIS, M. Holocaustos coloniais: clima, fome e imperialismo na formação do Terceiro Mundo. Rio de Janeiro; São Paulo: Record, 2002.</p><p>O fenômeno climático citado ocorre periodicamente e tem como causa o aumento da</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>atuação da Massa Equatorial Continental.</p>",
+        "alternativa_b_txt": "<p>velocidade dos ventos no Hemisfério Sul.</p>",
+        "alternativa_c_txt": "<p>atividade vulcânica no Círculo do Fogo.</p>",
+        "alternativa_d_txt": "<p>temperatura das águas do Pacífico.</p>",
+        "alternativa_e_txt": "<p>liquefação das geleiras no Ártico.</p>"
+      },
+      "alternativa_correta": "<p>D</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Humana; Urbanização; Urbanização brasileira",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Maior que os espaços metropolitanos tradicionais, incorporando áreas menores em vizinhança e formando uma aglomeração em escala mais ampla, concentra o principal das atividades produtivas significativas em diversos setores (cadeias da indústria, investimentos estrangeiros diretos, operações de negócios internacionais, trabalhadores migrantes, fluxos monetários etc.). O conjunto da economia global passa a ser um arquipélago delas, constituindo os nós da malha econômica.</p><p>IBGE. <strong>Gestão do território.</strong> Rio de Janeiro: IBGE, 2014 (adaptado).</p><p>A configuração geográfica descrita no texto é definida pelo conceito de</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>meio técnico.</p>",
+        "alternativa_b_txt": "<p>cidade-região.</p>",
+        "alternativa_c_txt": "<p>zona de transição.</p>",
+        "alternativa_d_txt": "<p>polo de tecnologia.</p>",
+        "alternativa_e_txt": "<p>paisagem urbana.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Física; Cartografia; Coordenadas Geográficas",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p><blockquote><p><strong>Menino de engenho</strong></p><p>A minha mãe sempre me falava do engenho como de um recanto do céu. E uma negra que ela trouxera para criada contava histórias de lá, das moagens, dos banhos de rio, das frutas e dos brinquedos, que me acostumei a imaginar o engenho como qualquer coisa de um conto de fadas, de um reino fabuloso.</p><p><i>REGO, J. L. Menino de engenho. In: Ficção completa. Rio de Janeiro: Nova Aguilar, 1986.</i></p></blockquote><p>O conceito geográfico que define a relação descrita no texto entre indivíduo e espaço é:</p></p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>Rede, pois permite o fluxo de informações.</p>",
+        "alternativa_b_txt": "<p>Escala, pois dimensiona a área de utilização.</p>",
+        "alternativa_c_txt": "<p>Lugar, pois oferece uma noção de afetividade.</p>",
+        "alternativa_d_txt": "<p>Território, pois caracteriza um exercício de poder.</p>",
+        "alternativa_e_txt": "<p>Região, pois delimita conjuntos por homogeneidades.</p>"
+      },
+      "alternativa_correta": "<p>C</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Humana; Urbanização; Urbanização brasileira",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Brasília é a primeira cidade moderna inscrita na lista do Patrimônio Mundial. O plano da cidade, idealizado por Lúcio Costa, segue os princípios básicos da Carta de Atenas, de 1933. Uma cidade estruturada em áreas, cada qual com uma função específica (área monumental, onde se concentram os prédios da administração, área residencial, área agrária e área de lazer), separadas por vastos espaços naturais que se comunicam pelo traçado das grandes vias.</p><p><i>SILVA, F. F. As cidades brasileiras e o Patrimônio Cultural da Humanidade. São Paulo: Peirópolis, 2003.</i></p><p>A cidade apresentada foi reconhecida como Patrimônio Cultural da Humanidade porque</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>mescla populações e sotaques ilustrativos da diversidade étnica brasileira.</p>",
+        "alternativa_b_txt": "<p>preserva princípios arquitetônicos e urbanísticos originados no Modernismo.</p>",
+        "alternativa_c_txt": "<p>sintetiza valores cívicos e políticos definidores do patriotismo político nacional.</p>",
+        "alternativa_d_txt": "<p>promove serviços turísticos e produtos artesanais representativos das tradições locais.</p>",
+        "alternativa_e_txt": "<p>protege acervos documentais e imagéticos reveladores da trajetória institucional do país.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "Filosofia; Filosofia Moderna; Kant",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Princípios práticos são subjetivos, ou máximas, quando a condição é considerada pelo sujeito como verdadeira só para a sua vontade; são, por outro lado, objetivos, quando a condição é válida para a vontade de todo ser natural.</p><p><i>KANT, I. Crítica da razão prática. Lisboa: Edições 70, 2008.</i></p><p>A concepção ética presente no texto defende a</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>universalidade do dever.</p>",
+        "alternativa_b_txt": "<p>maximização da utilidade.</p>",
+        "alternativa_c_txt": "<p>aprovação pelo sentimento.</p>",
+        "alternativa_d_txt": "<p>identificação da justa medida.</p>",
+        "alternativa_e_txt": "<p>obediência à determinação divina.</p>"
+      },
+      "alternativa_correta": "<p>A</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Econômica; Agricultura; Agricultura brasileira",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Somada à produção voltada para o mercado interno está a expansão das culturas de exportação, via de regra financiadas com incentivos fiscais oriundos das políticas territoriais do Estado. Combinando mercado interno e externo, o Estado atuou no sentido de incrementar a produção, principalmente de grãos.</p><p><i>OLIVEIRA, A. U. Agricultura brasileira: transformações recentes. In: ROSS, J. L. S. Geografia do Brasil. São Paulo: Edusp, 2008 (adaptado).</i></p><p>A atuação do Estado brasileiro na atividade descrita ocasionou mudanças socioespaciais marcadas pela</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>contenção do fluxo migratório.</p>",
+        "alternativa_b_txt": "<p>alteração da estrutura fundiária.</p>",
+        "alternativa_c_txt": "<p>priorização do abastecimento local.</p>",
+        "alternativa_d_txt": "<p>reconfiguração da fronteira agrícola.</p>",
+        "alternativa_e_txt": "<p>concentração da produção sustentável.</p>"
+      },
+      "alternativa_correta": "<p>D</p>"
+    },
+    {
+      "assunto": "História; História Geral; Idade Moderna; Expansão Marítima",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Na maior parte da América Latina, os museus surgiram no século passado, fundados com a intenção de \"civilizar\", ou seja, de trazer para o Novo Mundo os padrões científicos e culturais das nações colonizadoras. Os museus seriam, dessa forma, instituições transplantadas, criadas dentro dos ideais positivistas de progresso. Não por acaso, ficaram, em sua maior parte, sujeitos aos moldes clássicos, a partir da valorização de aspectos da cultura erudita, fortemente associados à elite. Era necessário, pois, assumir uma função social de maior alcance e ocupar um espaço relevante, capaz de atrair grande quantidade de público.</p><p><i>BARRETO, M. Turismo e legado cultural. Campinas: Papirus, 2002 (adaptado).</i></p><p>A transformação de um número cada vez mais expressivo de museus latino-americanos em espaços destinados a atividades lúdicas e reflexivas está associada ao rompimento com o(a)</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>ideal de educação tradicional.</p>",
+        "alternativa_b_txt": "<p>utilização de novas tecnologias.</p>",
+        "alternativa_c_txt": "<p>modelo de atrações segmentadas.</p>",
+        "alternativa_d_txt": "<p>participação do setor empresarial.</p>",
+        "alternativa_e_txt": "<p>resgate de sentimentos nacionalistas.</p>"
+      },
+      "alternativa_correta": "<p>A</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Humana; População; Pirâmides Etárias",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p>A redução do valor da aposentadoria se deve ao fator previdenciário, mecanismo utilizado pelo INSS para tentar adiar a aposentadoria dos trabalhadores mais jovens, penalizando quem se aposenta mais cedo, já que esse segurado, teoricamente, vai receber o benefício por mais tempo.</p><p>RESENDE, T. Disponível em: http://ieprev.com.br. Acesso em: 25 out. 2015 (adaptado).</p><p>Políticas previdenciárias como a apresentada no texto têm sido justificadas com base na dinâmica populacional de aumento da</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>fuga de cérebros.</p>",
+        "alternativa_b_txt": "<p>taxa de natalidade.</p>",
+        "alternativa_c_txt": "<p>expectativa de vida.</p>",
+        "alternativa_d_txt": "<p>proporção de adultos.</p>",
+        "alternativa_e_txt": "<p>imigração de refugiados.</p>"
+      },
+      "alternativa_correta": "<p>C</p>"
+    },
+    {
+      "assunto": "Sociologia; Teorias Sociológicas; Max Weber",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>No protestantismo ascético, temos não apenas a clara noção da primazia da ética sobre o mundo, mas também a mitigação dos efeitos da dupla moral judaica (uma moral interna para os irmãos de crença e outra externa para os infiéis). O desafio aqui é o da ética, que quer deixar de ser um ideal eventual e ocasional (que exige dos virtuosos religiosos quase sempre uma “fuga do mundo”, como na prática monástica cristã medieval) para tornar-se efetivamente uma lei prática e cotidiana “dentro do mundo”.</p><p><i>SOUZA, J. A ética protestante e a ideologia do atraso brasileiro. Revista Brasileira de Ciências Sociais, n. 38, out. 1998.</i></p><p>Retomando o pensamento de Max Weber, o texto apresenta a tensão entre positividade éticoreligiosa e esferas mundanas de ação. Nessa perspectiva, a ética protestante é compreendida como</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>vinculada ao abandono da felicidade terrena.</p>",
+        "alternativa_b_txt": "<p>contrária aos princípios econômicos liberais.</p>",
+        "alternativa_c_txt": "<p>promovedora da dimensão política da vida cotidiana.</p>",
+        "alternativa_d_txt": "<p>estimuladora da igualdade social como direito divino.</p>",
+        "alternativa_e_txt": "<p>adequada ao desenvolvimento do capitalismo moderno.</p>"
+      },
+      "alternativa_correta": "<p>E</p>"
+    },
+    {
+      "assunto": "Filosofia; Filosofia Medieval; Patrística; Santo Agostinho",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p>Sem negar que Deus prevê todos os acontecimentos futuros, entretanto, nós queremos livremente aquilo que queremos. Porque, se o objeto da presciência divina é a nossa vontade, é essa mesma vontade assim prevista que se realizará. Haverá, pois, um ato de vontade livre, já que Deus vê esse ato livre com antecedência.<br><i>SANTO AGOSTINHO. O livre-arbítrio. São Paulo: Paulus, 1995 (adaptado).</i></p><p>Essa discussão, proposta pelo filósofo Agostinho de Hipona (354-430), indica que a liberdade humana apresenta uma</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>natureza condicionada.</p>",
+        "alternativa_b_txt": "<p>competência absoluta.</p>",
+        "alternativa_c_txt": "<p>aplicação subsidiária.</p>",
+        "alternativa_d_txt": "<p>utilização facultativa.</p>",
+        "alternativa_e_txt": "<p>autonomia irrestrita.</p>"
+      },
+      "alternativa_correta": "<p>A</p>"
+    },
+    {
+      "assunto": "Sociologia; Política, poder e Estado; Democracia",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p>Numa democracia representativa, como é o Brasil, o direito de votar para escolha dos governantes, que irão ocupar os cargos do Executivo e do Legislativo, é um dos direitos fundamentais da cidadania. Na impossibilidade de participação direta do povo nas decisões que deverão ser tomadas a respeito de questões da máxima relevância para o interesse público, a escolha de representantes para o desempenho dessas tarefas foi o caminho encontrado para que as opções reflitam a vontade do povo.<br><i>DALLARI, D. Em busca da democracia representativa. Disponível em: www.jb.com.br. Acesso em: 2 fev. 2015.</i></p><p>Na perspectiva apontada no texto, a consolidação da democracia no Brasil baseia-se na representação popular por meio dos(as)<br>&nbsp;</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>fóruns sociais.</p>",
+        "alternativa_b_txt": "<p>partidos políticos.</p>",
+        "alternativa_c_txt": "<p>conselhos federais.</p>",
+        "alternativa_d_txt": "<p>entidades de classe.</p>",
+        "alternativa_e_txt": "<p>organizações não governamentais.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "História; História do Brasil; República Oligárquica",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>O tenentismo veio preencher um espaço: o vazio deixado pela falta de lideranças civis aptas a conduzirem o processo revolucionário brasileiro que começava a sacudir as já caducas instituições políticas da República Velha. Os “tenentes” substituíram os inexistentes partidos políticos de oposição aos governos de Epitácio Pessoa e de Artur Bernardes.</p><p><i>PRESTES, A. L. Uma epopeia brasileira: a Coluna Prestes. São Paulo: Moderna, 1995 (adaptado).</i></p><p>Um dos objetivos do movimento político abordado no texto era</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>unificar as Forças Armadas pelo comando do Exército nacional.</p>",
+        "alternativa_b_txt": "<p>combater a corrupção eleitoral perpetrada pelas oligarquias regionais.</p>",
+        "alternativa_c_txt": "<p>restaurar a segurança das fronteiras negligenciadas pelo governo central.</p>",
+        "alternativa_d_txt": "<p>organizar as frentes camponesas envolvidas na luta pela reforma agrária.</p>",
+        "alternativa_e_txt": "<p>pacificar os movimentos operários radicalizados pelo anarco-sindicalismo.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "História; História do Brasil; Ditadura Militar",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>O termo manipulação significa uma consciente intervenção técnica em um material dado. Se a intervenção é de uma importância social imediata, a manipulação constitui um ato político. É o caso da indústria da consciência. Assim, toda utilização de meios pressupõe uma manipulação. Os mais elementares processos de produção constituem intervenções no material existente. Portanto, escrever, filmar ou emitir sem manipulação não existe. Por conseguinte, a questão não é se os meios são manipulados ou não, mas quem manipula os meios.</p><p><i>ENZENSBERGER, H. M. Elementos para uma teoria dos meios de comunicação. Rio de Janeiro: Tempo Brasileiro, 1979 (adaptado).</i></p><p>Esse entendimento acerca dos meios de comunicação, produzido na década de 1970, contesta o(a)</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>neutralidade dos mecanismos midiáticos.</p>",
+        "alternativa_b_txt": "<p>valorização dos interesses particulares.</p>",
+        "alternativa_c_txt": "<p>fragmentação do conteúdo informativo.</p>",
+        "alternativa_d_txt": "<p>crescimento do mercado jornalístico.</p>",
+        "alternativa_e_txt": "<p>controle do poder estatal.</p>"
+      },
+      "alternativa_correta": "<p>A</p>"
+    },
+    {
+      "assunto": "História; História Geral; África",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Diante da unidade e da militância dos negros, o governo nacionalista decidiu aplicar medidas reacionárias e repressivas — interdição do direito à reunião, vigilância e perseguição policiais, dissolução dos partidos políticos, tortura, prisão domiciliar e encarceramento de militantes.</p><p>CHANAIWA, D. A África austral. In: MAZRUI, A.; WONDJI, C. (Org.). <strong>História geral da África</strong>: África desde 1935. Brasília: Unesco, 2010.</p><p>A atuação do Estado sul-africano na década de 1950, como descrita, indica que seus dirigentes buscavam</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>bloquear as manifestações violentas dos bôeres.</p>",
+        "alternativa_b_txt": "<p>atender às disposições jurídicas internacionais.</p>",
+        "alternativa_c_txt": "<p>suprimir as organizações dissidentes atuantes.</p>",
+        "alternativa_d_txt": "<p>fomentar as divisões étnicas da oposição.</p>",
+        "alternativa_e_txt": "<p>aliciar as lideranças tribais nativas.</p>"
+      },
+      "alternativa_correta": "<p>C</p>"
+    },
+    {
+      "assunto": "História; História Geral; Idade Contemporânea; Primeira Guerra Mundial",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>A década que se segue ao fim da guerra constitui praticamente uma continuação desta com a acomodação difícil de seus resultados. A ruptura do sistema internacional com a Revolução Soviética, a ascensão dos Estados Unidos, o recuo da Europa e o início da contestação anticolonial marcam uma década que para muitos foi de pessimismo e para alguns de ilusão, que bruscamente se encerra com a quebra da bolsa de Nova Iorque. Com a crise de 1929 terá início a preparação de uma nova guerra mundial.</p><p>VIZENTINI, P. G. F. <strong>Primeira Guerra Mundial</strong>. Porto Alegre: UFRGS, 2006 (adaptado).</p><p>Os eventos mencionados no texto contribuíram fortemente para a ascensão de regimes propensos a um novo conflito armado, pois<br>&nbsp;</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>perturbaram a dinâmica de equilíbrio demográfico.</p>",
+        "alternativa_b_txt": "<p>dificultaram a adesão a ideologias de viés socialista.</p>",
+        "alternativa_c_txt": "<p>favoreceram a ascensão de grupos anarquistas ao poder.</p>",
+        "alternativa_d_txt": "<p>corroeram a crença na legitimidade das democracias liberais.</p>",
+        "alternativa_e_txt": "<p>deterioraram a confiança no salvacionismo dos exércitos nacionais.</p>"
+      },
+      "alternativa_correta": "<p>D</p>"
+    },
+    {
+      "assunto": "História; História do Brasil; Período Regencial",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Depois da Independência, em 1822, o país enfrentaria problemas que com frequência emergiram durante a formação dos Estados nacionais da América Latina. Em muitas regiões do Brasil, essas divergências foram acompanhadas de revoltas, inclusive contra o imperador D. Pedro I. Com a abdicação deste, em 1831, o país atravessaria tempos ainda mais turbulentos sob o regime regencial.</p><p><i>REIS, J. J. Rebelião escrava no Brasil: a história do Levante dos Malês em 1835. São Paulo: Cia. das Letras, 2003 (adaptado).</i></p><p>A instabilidade política no país, ao longo dos períodos mencionados, foi decorrente da(s)</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>disputas entre as tendências unitarista e federalista.</p>",
+        "alternativa_b_txt": "<p>tensão entre as forças do Exército e Marinha nacional.</p>",
+        "alternativa_c_txt": "<p>dinâmicas demográficas nas fronteiras amazônica e platina.</p>",
+        "alternativa_d_txt": "<p>extensão do direito de voto aos estrangeiros e ex-escravos.</p>",
+        "alternativa_e_txt": "<p>reivindicações da ex-metrópole nas esferas comercial e diplomática.</p>"
+      },
+      "alternativa_correta": "<p>A</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Econômica; Agricultura; Agricultura brasileira",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>O processo de modernização da agricultura brasileira resultou em profundas modificações nas relações sociais, no mundo do trabalho e da produção. Mas a modernização teve também como consequência, num modelo social perverso como o nosso, a permanência da concentração da terra, o êxodo rural, aumentou o processo de assalariamento para o homem rural, concentrou capitais e gerou um processo de industrialização da agricultura, direcionada para atender às demandas do capital nacional e internacional.</p><p><i>MENEZES NETO, A. J. Educação, sindicalismo e novas tecnologias nos processos sociais agrários. Disponível em: www.senac.br. Acesso em: 10 fev. 2014.</i></p><p>Nesse contexto, o processo apresentado revela contradições no espaço agrário brasileiro decorrentes da expansão da<br>&nbsp;</p><p><br>&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>produção familiar.</p>",
+        "alternativa_b_txt": "<p>reforma fundiária.</p>",
+        "alternativa_c_txt": "<p>lavoura comercial.</p>",
+        "alternativa_d_txt": "<p>pastagem extensiva.</p>",
+        "alternativa_e_txt": "<p>segurança alimentar.</p>"
+      },
+      "alternativa_correta": "<p>C</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Política; Globalização",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p>&nbsp; Com tanta espionagem à solta, governantes sofrem para ter um <i>smartphone,</i> acessível aos cidadãos comuns, mas problemático para líderes políticos. O aparelho é também um potencial rastreador preciso, capaz de localizar o chefe de Estado no mapa e gravar as conversas mesmo sem estar fazendo uma chamada.&nbsp;</p><p><i>Tentação e risco na forma de um smartphone. O Globo, 26 out. 2013 (adaptado).&nbsp;</i></p><p>A situação retratada problematiza o uso dessa tecnologia em relação ao(à)</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>valorização das redes virtuais.&nbsp;</p>",
+        "alternativa_b_txt": "<p>aumento da prática consumista.</p>",
+        "alternativa_c_txt": "<p>crescimento da economia global.&nbsp;</p>",
+        "alternativa_d_txt": "<p>expansão dos espaços monitorados.</p>",
+        "alternativa_e_txt": "<p>ampliação dos meios comunicacionais.</p>"
+      },
+      "alternativa_correta": "<p>D</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Econômica; Agricultura; Agricultura brasileira",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p><strong>TEXTO I</strong></p><p>De modo geral, para a Região Norte, o fato contundente é a expansão dos padrões motivados pela pecuária. Hoje, as pastagens se estendem como uma frente pecuarista para o interior do Pará, com São Félix do Xingu contabilizando um dos maiores rebanhos do país.</p><p><i>IBGE. Censo agropecuário. Rio de Janeiro: IBGE, 2006.</i></p><p><strong>TEXTO II</strong></p><p>As várzeas dos rios são os principais espaços de aproveitamento para o cultivo de uma lavoura rudimentar dedicada ao consumo local, com produção de pouca extração e baixo nível tecnológico, induzindo a aquisição monetária à complementaridade através da pesca e da extração vegetal.</p><p><i>IBGE. Censo agropecuário. Rio de Janeiro: IBGE, 2006.</i></p><p>De acordo com os textos, observa-se na Região Norte a coexistência de dois modelos agrários baseados, respectivamente, no(a)</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>mercado de exportação e na subsistência.</p>",
+        "alternativa_b_txt": "<p>agricultura familiar e na agroecologia.</p>",
+        "alternativa_c_txt": "<p>sistema de arrendamento e no agronegócio.</p>",
+        "alternativa_d_txt": "<p>produção orgânica e na sustentabilidade.</p>",
+        "alternativa_e_txt": "<p>abastecimento interno e na transumância.</p>"
+      },
+      "alternativa_correta": "<p>A</p>"
+    },
+    {
+      "assunto": "Sociologia; Política, poder e Estado; Democracia",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p><strong>TEXTO I</strong><br>C = M + D − R. A equação, desenvolvida pelo economista Robert Klitgaard, descreve a corrupção. Traduzindo-a em palavras, temos que a corrupção (C) é dada pelo grau de monopólio (M) existente no serviço público, mais o poder discricionário (D) que as autoridades têm para tomar decisões, menos a responsabilização (R), que é basicamente a existência de mecanismos de controle. Outras versões da fórmula acrescentam ao R uma dimensão moral, que também funcionaria como barreira contra a cultura da corrupção.&nbsp;<br><i>SCHWARTSMAN, H. Fórmula da corrupção. Disponível em: www.folha.uol.com.br. Acesso em: 26 abr. 2015 (adaptado).</i>&nbsp;</p><p>&nbsp;</p><p><strong>TEXTO II&nbsp;</strong><br>Corrupção significa transação ou troca entre quem corrompe e quem se deixa corromper. Trata-se normalmente de uma promessa de recompensa em troca de um comportamento que favoreça os interesses do corruptor. A corrupção não está ligada apenas ao grau de institucionalização, à amplitude do setor público e ao ritmo das mudanças sociais; está também relacionada com a cultura das elites e das massas. Depende da percepção que tende a variar no tempo e no espaço.<br><i>BOBBIO, N.; MATTEUCCI, N.; PASQUINO, G. </i><i>Dicionário de política</i><i>. Brasília: UnB, 2009 (adaptado).</i></p><p>&nbsp;</p><p>O segundo texto complementa a compreensão do fenômeno da corrupção tal como abordado no primeiro texto, na medida em que<br>&nbsp;</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>comprova a limitação do sistema normativo pátrio.</p>",
+        "alternativa_b_txt": "<p>evidencia a atuação de agentes externos ao Estado.</p>",
+        "alternativa_c_txt": "<p>elucida o padrão de idoneidade do setor empresarial.&nbsp;</p>",
+        "alternativa_d_txt": "<p>minimiza a capacidade de mobilização da sociedade civil.</p>",
+        "alternativa_e_txt": "<p>demonstra a influência dos atores vinculados ao Judiciário.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "História; História do Brasil; República Oligárquica",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>No aluir das paredes, no ruir das pedras, no esfacelar do barro, havia um longo gemido. Era o gemido soturno e lamentoso do Passado, do Atraso, do Opróbrio. A cidade colonial, imunda, retrógrada, emperrada nas velhas tradições, estava soluçando no soluçar daqueles apodrecidos materiais que desabavam. Mas o hino claro das picaretas abafava esse projeto impotente. Com que alegria cantavam elas — as picaretas regeneradoras! E como as almas dos que ali estavam compreendiam o que elas diziam, no clamor incessante e rítmico, celebrando a vitória da higiene, do bom gosto e da arte.</p><p><i>BILAC, O. Crônica (1904). Apud SEVCENKO, N. Literatura como missão: tensões sociais e criação cultural na Primeira República. São Paulo: Brasiliense, 1995.</i></p><p>De acordo com o texto, a “picareta regeneradora” do alvorecer do século XX significava a</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>erradicação dos símbolos monárquicos.</p>",
+        "alternativa_b_txt": "<p>restauração das edificações seculares.</p>",
+        "alternativa_c_txt": "<p>interrupção da especulação imobiliária.</p>",
+        "alternativa_d_txt": "<p>reconstrução das moradias populares.</p>",
+        "alternativa_e_txt": "<p>reestruturação do espaço urbano.</p>"
+      },
+      "alternativa_correta": "<p>E</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Política; Globalização",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p>Num mundo como o nosso, por um lado marcado pela fluidez do espaço, as questões ligadas à circulação se tornam ainda mais relevantes e, com elas, a situação de um dos componentes mais emblemáticos dos territórios: seus limites. E é aí que surge um dos grandes paradoxos da geografia contemporânea: ao lado da fluidez globalizada aparecem também os fechamentos, as tentativas de controle da circulação de pessoas.</p><p><i>HAESBAERT, R. Da multiterritorialidade aos novos muros: paradoxos da desterritorialização contemporânea. Disponível em: www.posgeo.uff.br. Acesso em: 2 jan. 2013 (adaptado).</i></p><p>O texto aborda um paradoxo marcante do mundo contemporâneo, que consiste na oposição entre</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>blocos supranacionais e ineficiência do transporte.</p>",
+        "alternativa_b_txt": "<p>livre mercado e construção de barreiras fronteiriças.</p>",
+        "alternativa_c_txt": "<p>tecnologias da informação e desemprego estrutural.</p>",
+        "alternativa_d_txt": "<p>desconcentração industrial e concentração de capital.</p>",
+        "alternativa_e_txt": "<p>redução da pobreza e aumento da desigualdade social.</p>"
+      },
+      "alternativa_correta": "<p>B</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Política; Geopolítica; Questões Internacionais",
+      "dificuldade": "Fácil",
+      "enunciado_txt": "<p><strong>Entenda a crise na Ucrânia</strong><br>O presidente da Rússia, Vladimir Putin, e dois líderes da Crimeia assinaram, em março de 2014, um acordo para tornar a República Autônoma parte da Rússia. O tratado foi assinado dois dias após o povo da Crimeia aprovar em um referendo a separação da Ucrânia e a reunificação com a Rússia. A votação foi condenada por Kiev e pela comunidade internacional, que a considera ilegítima.<br>Disponível em: http://g1.globo.com. Acesso em: 28 out. 2014 (adaptado).</p><p>A justificativa para o acordo descrito fundamentava-se na ideia de</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>espaço vital.</p>",
+        "alternativa_b_txt": "<p>limite fronteiriço.</p>",
+        "alternativa_c_txt": "<p>estrutura bipolar.</p>",
+        "alternativa_d_txt": "<p>identificação cultural.</p>",
+        "alternativa_e_txt": "<p>autonomia econômica.</p>"
+      },
+      "alternativa_correta": "<p>D</p>"
+    },
+    {
+      "assunto": "Geografia; Geografia Física; Hidrografia",
+      "dificuldade": "Média",
+      "enunciado_txt": "<p>Os canais meândricos são encontrados, com frequência, nas áreas úmidas cobertas por vegetação ciliar, descrevem curvas sinuosas harmoniosas e semelhantes entre si. Várias são as condições essenciais para o desenvolvimento dos meandros: camadas de detritos de granulação móvel, coerentes, firmes e não soltas; gradientes moderadamente baixos; fluxos contínuos e regulares; cargas em suspensão e de fundo em quantidades mais ou menos equivalentes.</p><p><i>GUERRA, A. J. T.; CUNHA, S. B. (Org.). Geomorfologia: uma atualização de bases e conceitos. Rio de Janeiro: Bertrand Brasil, 1994.</i></p><p>A drenagem fluvial apresentada desenvolve-se em qual ambiente topográfico?</p>",
+      "alternativas": {
+        "alternativa_a_txt": "<p>Vales encaixados.</p>",
+        "alternativa_b_txt": "<p>Escarpas íngremes.</p>",
+        "alternativa_c_txt": "<p>Depressões absolutas.</p>",
+        "alternativa_d_txt": "<p>Planícies sedimentares.</p>",
+        "alternativa_e_txt": "<p>Cordilheiras montanhosas.</p>"
+      },
+      "alternativa_correta": "<p>D</p>"
+    }
+  ]
+}

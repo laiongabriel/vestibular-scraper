@@ -23,15 +23,20 @@ CONFIG = {
     "headless": True,
     "timeout": 10,
     "pagina_inicial": 1,
-    "pagina_final": 3,
+    "pagina_final": 6,
 }
 
 PROVA_CONFIG = {
-    "nome_prova": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS - PPL",
-    "ano": 2014,
-    "arquivo_saida": "enemppl2015_linguagens.json",
-    "base_url": "https://app.repertorioenem.com.br/questions/list?search=1&field%5B0%5D=12&field%5B1%5D=23&field%5B2%5D=1&field%5B3%5D=3&field%5B4%5D=2&institution%5B0%5D=2&year%5B0%5D=2014&pages=50&order_by=1&page="
+    "nome_prova": "UFRGS",
+    "ano": 2018,
+    "arquivo_saida": "ufrgs2018.json",
+    "base_url": "https://app.repertorioenem.com.br/questions/list?search=1&institution%5B0%5D=21&year%5B0%5D=2018&pages=50&order_by=1&page="
 }
+
+# LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS: Português, Literatura, Artes, Inglês e Espanhol.
+# CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS: História, Geografia, Filosofia, Sociologia.
+# CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS: Biologia, Química e Física.
+# MATEMÁTICA E SUAS TECNOLOGIAS: Matemática.
 
 # ============ CACHE E OTIMIZAÇÕES ============
 @lru_cache(maxsize=1000)
@@ -59,30 +64,24 @@ def criar_driver():
     if CONFIG["headless"]:
         chrome_options.add_argument('--headless=new')
         chrome_options.add_argument('--disable-gpu')
+        chrome_options.add_argument('--window-size=1920,1080')
     
-    # Otimizações de performance
+    chrome_options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
     chrome_options.add_argument('--no-sandbox')
     chrome_options.add_argument('--disable-dev-shm-usage')
     chrome_options.add_argument('--disable-blink-features=AutomationControlled')
-    chrome_options.add_argument('--disable-extensions')
-    chrome_options.add_argument('--disable-logging')
-    chrome_options.add_argument('--log-level=3')
-    chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
+    chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    chrome_options.add_experimental_option('useAutomationExtension', False)
     
-    # Desabilita imagens para carregar mais rápido (já que vamos baixar depois)
-    prefs = {
-        'profile.default_content_setting_values': {
-            'images': 2  # 2 = bloquear imagens
-        }
-    }
-    chrome_options.add_experimental_option('prefs', prefs)
+    # NÃO bloqueia imagens durante o login
+    # Só bloqueie depois se necessário
     
     driver = webdriver.Chrome(
         service=Service(ChromeDriverManager().install()),
         options=chrome_options
     )
     
-    # Timeout implícito
+    driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
     driver.implicitly_wait(5)
     
     return driver
