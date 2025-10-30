@@ -5,12 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import pickle
-import time
-import re
-import base64
-import json
-import requests
+import pickle, time, re, base64, json, requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 from functools import lru_cache
@@ -20,31 +15,17 @@ CONFIG = {
     "email": "laionp98@gmail.com",
     "senha": "00uLisses00!",
     "max_workers": 40,
-    "headless": True,
+    "headless": False,
     "timeout": 2,
-    "page_load_timeout": 10, 
+    "page_load_timeout": 10,
 }
 
 PROVAS = [
     {
-        "nome_prova": "UFRGS",
-        "ano": 2024,
-        "arquivo_saida": "ufrgs2024.json",
-        "base_url": "https://app.repertorioenem.com.br/questions/list?search=1&institution%5B%5D=152&year%5B%5D=2024&text=&pages=50&order_by=1",
-        "total_paginas": 2
-    },
-    {
-        "nome_prova": "UFRGS",
-        "ano": 2024,
-        "arquivo_saida": "ufrgs2024.json",
-        "base_url": "https://app.repertorioenem.com.br/questions/list?search=1&institution%5B%5D=152&year%5B%5D=2024&text=&pages=50&order_by=1",
-        "total_paginas": 2
-    },
-    {
-        "nome_prova": "UFRGS",
-        "ano": 2024,
-        "arquivo_saida": "ufrgs2024.json",
-        "base_url": "https://app.repertorioenem.com.br/questions/list?search=1&institution%5B%5D=152&year%5B%5D=2024&text=&pages=50&order_by=1",
+        "nome_prova": "UFTM",
+        "ano": 2013,
+        "arquivo_saida": "uftm2013.json",
+        "base_url": "https://app.repertorioenem.com.br/questions/list?search=1&institution%5B%5D=23&year%5B%5D=2013&text=&pages=50&order_by=2",
         "total_paginas": 2
     },
 ]
@@ -98,7 +79,7 @@ def fazer_login(driver, email, senha):
     driver.get("https://app.repertorioenem.com.br/login")
     
     try:
-        wait = WebDriverWait(driver, 10)
+        wait = WebDriverWait(driver, 20)
         
         email_field = wait.until(EC.presence_of_element_located((By.ID, "inputEmailAddress")))
         email_field.send_keys(email)
