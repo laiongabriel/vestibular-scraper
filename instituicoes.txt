@@ -12,7 +12,6 @@ ENEM (Libras)
 ENEM 2° EDIÇÃO
 UFRGS
 UFMG
-UFRJ (não listada, mas UERJ está)
 UERJ
 UERJ - 1º E.Q.
 UERJ - 2º E.Q.
@@ -73,7 +72,6 @@ IMT
 CÁSPER LÍBERO
 ESPM
 FEI
-FAAP (não listada)
 UEL
 UEM
 UDESC
@@ -114,7 +112,6 @@ UPE SSA 1
 UPE SSA 3
 UPF
 URCA
-UNOESTE (não listada)
 FAMEMA
 FAMERP
 FCMSCSP - Santa Casa
